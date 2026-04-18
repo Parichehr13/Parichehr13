@@ -45,15 +45,23 @@
 
 ---
 
-## Tools & Topics
+## Tools & Research Areas
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-Scientific%20Computing-f9d5e5?style=flat-square" alt="Python badge" />
-  <img src="https://img.shields.io/badge/MATLAB-Signal%20Analysis-f7cad0?style=flat-square" alt="MATLAB badge" />
-  <img src="https://img.shields.io/badge/EEG-Neural%20Data-f4acb7?style=flat-square" alt="EEG badge" />
-  <img src="https://img.shields.io/badge/ICA-Preprocessing-fbc4d9?style=flat-square" alt="ICA badge" />
-  <img src="https://img.shields.io/badge/ERP-Time%20Series-eac4ff?style=flat-square" alt="ERP badge" />
-  <img src="https://img.shields.io/badge/Modeling-Neural%20Systems-f1e4f3?style=flat-square" alt="Modeling badge" />
+  <img src="https://img.shields.io/badge/MATLAB-f7cad0?style=flat-square" alt="MATLAB badge" />
+  <img src="https://img.shields.io/badge/Python-f9d5e5?style=flat-square" alt="Python badge" />
+  <img src="https://img.shields.io/badge/EEGLAB-f4acb7?style=flat-square" alt="EEGLAB badge" />
+  <img src="https://img.shields.io/badge/TensorFlow%2FKeras-fbc4d9?style=flat-square" alt="TensorFlow and Keras badge" />
+  <img src="https://img.shields.io/badge/scikit--learn-eac4ff?style=flat-square" alt="scikit-learn badge" />
+  <img src="https://img.shields.io/badge/Jupyter-Notebooks-f1e4f3?style=flat-square" alt="Jupyter badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/EEG-Analysis-f8c8dc?style=for-the-badge" alt="EEG Analysis badge" />
+  <img src="https://img.shields.io/badge/Biomedical-Signal%20Processing-f4b6c2?style=for-the-badge" alt="Biomedical Signal Processing badge" />
+  <img src="https://img.shields.io/badge/Computational-Neuroscience-f7d6e0?style=for-the-badge" alt="Computational Neuroscience badge" />
+  <img src="https://img.shields.io/badge/Neural-Systems%20Modeling-e8c8f6?style=for-the-badge" alt="Neural Systems Modeling badge" />
+  <img src="https://img.shields.io/badge/Medical-Image%20Analysis-f3d6ff?style=for-the-badge" alt="Medical Image Analysis badge" />
 </p>
 
 ---
@@ -79,4 +87,3 @@
 
 - GitHub: [Parichehr13](https://github.com/Parichehr13)
 - LinkedIn: [parichehr-moradi-82b0121a9](https://www.linkedin.com/in/parichehr-moradi-82b0121a9)
-
