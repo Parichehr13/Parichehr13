@@ -3,10 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF1F7,45:FBCFE8,100:F472B6&height=190&section=header&text=Hi%2C%20I%27m%20Parichehr%20%F0%9F%A7%A0&fontSize=34&fontColor=8b3c68&animation=fadeIn&fontAlignY=45" alt="Profile banner" />
 </p>
 
-<p align="center"><code>Biomedical Engineering MSc student exploring the meeting point of engineering, brain science, and computation.</code></p>
-<p align="center"><code>Working on EEG signal processing, biomedical data analysis, and brain signal decoding.</code></p>
-<p align="center"><code>Especially interested in computational neuroscience, neural systems, and AI for healthcare.</code></p>
-<p align="center"><code>Drawn to projects that connect biology, modeling, and intelligent systems.</code></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1400&center=true&vCenter=true&width=900&color=E088AE&lines=Biomedical+Engineer.;Reading+the+language+of+the+brain%2C+one+signal+at+a+time.;EEG+%7C+Neuroscience+%7C+Signal+Processing+%7C+Computational+Neuroscience" alt="Typing SVG" />
+</p>
 
 <p align="center">
   Curious about the brain, inspired by engineering, and passionate about decoding biological signals through science and computation.
