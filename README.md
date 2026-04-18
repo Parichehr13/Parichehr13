@@ -50,7 +50,7 @@
   <img src="https://img.shields.io/badge/Python-f9d6e5?style=for-the-badge&labelColor=f9d6e5&color=f9d6e5" alt="Python badge" />
   <img src="https://img.shields.io/badge/EEGLAB-e8a6bc?style=for-the-badge&labelColor=e8a6bc&color=e8a6bc" alt="EEGLAB badge" />
   <img src="https://img.shields.io/badge/TensorFlow%2FKeras-f7bfd5?style=for-the-badge&labelColor=f7bfd5&color=f7bfd5" alt="TensorFlow and Keras badge" />
-  <img src="https://img.shields.io/badge/scikit%2Dlearn-efc7d8?style=for-the-badge&labelColor=efc7d8&color=efc7d8" alt="scikit-learn badge" />
+  <img src="https://img.shields.io/badge/Scikit%20Learn-efc7d8?style=for-the-badge&labelColor=efc7d8&color=efc7d8" alt="scikit-learn badge" />
   <img src="https://img.shields.io/badge/Jupyter%20Notebook-fbe4ee?style=for-the-badge&labelColor=fbe4ee&color=fbe4ee" alt="Jupyter notebook badge" />
 </p>
 
