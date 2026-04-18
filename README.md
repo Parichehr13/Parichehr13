@@ -1,5 +1,5 @@
 <!-- profile refresh: 2026-04-18 -->
-<h1 align="center">Hi, I'm Parichehr 🌷</h1>
+<h1 align="center">Hi, I'm Parichehr 🧠</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=900&color=E59BB7&lines=Reading+the+language+of+the+brain%2C+one+signal+at+a+time.;Biomedical+Engineer.;Neuroscience+%7C+EEG+%7C+Signal+Processing+%7C+Machine+Learning.;Exploring+the+patterns+hidden+inside+biological+signals." alt="Typing SVG" />
