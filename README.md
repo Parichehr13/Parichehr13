@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=760&height=90&color=E088AE&multiline=true&repeat=false&lines=Biomedical+Engineer.;Drawn+to+the+brain%2C+grounded+in+engineering." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2200&pause=250&center=true&vCenter=true&width=760&height=90&color=E088AE&multiline=true&repeat=false&lines=Biomedical+Engineer.;Drawn+to+the+brain%2C+grounded+in+engineering." alt="Typing SVG" />
 </p>
 
 <p align="center">
