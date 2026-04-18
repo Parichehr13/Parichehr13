@@ -4,14 +4,14 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2200&pause=250&center=true&vCenter=true&width=760&height=90&color=E088AE&multiline=true&repeat=false&lines=Biomedical+Engineer.;Drawn+to+the+brain%2C+grounded+in+engineering." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&duration=2200&pause=250&center=true&vCenter=true&width=760&height=90&size=24&color=C76A93&multiline=true&repeat=false&lines=Biomedical+Engineer.;Drawn+to+the+brain%2C+grounded+in+engineering." alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/EEG-Neural%20Signals-f6bfd7?style=for-the-badge" alt="EEG badge" />
-  <img src="https://img.shields.io/badge/Neuroscience-Brain%20Research-f4a9c8?style=for-the-badge" alt="Neuroscience badge" />
-  <img src="https://img.shields.io/badge/Signal%20Processing-Biomedical%20Data-f8d7e7?style=for-the-badge" alt="Signal Processing badge" />
-  <img src="https://img.shields.io/badge/Computational-Neuroscience-f1bdd5?style=for-the-badge" alt="Computational Neuroscience badge" />
+  <img src="https://img.shields.io/badge/EEG-Neural%20Signals-e9e5ec?style=for-the-badge&labelColor=e9e5ec&color=e9e5ec" alt="EEG badge" />
+  <img src="https://img.shields.io/badge/Neuroscience-Brain%20Research-f1bfd7?style=for-the-badge&labelColor=f1bfd7&color=f1bfd7" alt="Neuroscience badge" />
+  <img src="https://img.shields.io/badge/Signal%20Processing-Biomedical%20Data-eee8ef?style=for-the-badge&labelColor=eee8ef&color=eee8ef" alt="Signal Processing badge" />
+  <img src="https://img.shields.io/badge/Computational-Neuroscience-f4c7dc?style=for-the-badge&labelColor=f4c7dc&color=f4c7dc" alt="Computational Neuroscience badge" />
 </p>
 
 ---
@@ -46,21 +46,21 @@
 ## Tools & Research Areas
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MATLAB-f7cad0?style=for-the-badge&labelColor=f7cad0&color=f7cad0" alt="MATLAB badge" />
-  <img src="https://img.shields.io/badge/Python-f9d5e5?style=for-the-badge&labelColor=f9d5e5&color=f9d5e5" alt="Python badge" />
-  <img src="https://img.shields.io/badge/EEGLAB-f4acb7?style=for-the-badge&labelColor=f4acb7&color=f4acb7" alt="EEGLAB badge" />
-  <img src="https://img.shields.io/badge/TensorFlow%2FKeras-fbc4d9?style=for-the-badge&labelColor=fbc4d9&color=fbc4d9" alt="TensorFlow and Keras badge" />
-  <img src="https://img.shields.io/badge/scikit--learn-f2c6dc?style=for-the-badge&labelColor=f2c6dc&color=f2c6dc" alt="scikit-learn badge" />
-  <img src="https://img.shields.io/badge/Jupyter-Notebooks-f8e4ee?style=for-the-badge&labelColor=f8e4ee&color=f8e4ee" alt="Jupyter badge" />
+  <img src="https://img.shields.io/badge/MATLAB-ebeaef?style=for-the-badge&labelColor=ebeaef&color=ebeaef" alt="MATLAB badge" />
+  <img src="https://img.shields.io/badge/Python-f6d3e2?style=for-the-badge&labelColor=f6d3e2&color=f6d3e2" alt="Python badge" />
+  <img src="https://img.shields.io/badge/EEGLAB-e8e4eb?style=for-the-badge&labelColor=e8e4eb&color=e8e4eb" alt="EEGLAB badge" />
+  <img src="https://img.shields.io/badge/TensorFlow%2FKeras-f2bfd8?style=for-the-badge&labelColor=f2bfd8&color=f2bfd8" alt="TensorFlow and Keras badge" />
+  <img src="https://img.shields.io/badge/scikit--learn-eeeaef?style=for-the-badge&labelColor=eeeaef&color=eeeaef" alt="scikit-learn badge" />
+  <img src="https://img.shields.io/badge/Jupyter-Notebooks-f7dce7?style=for-the-badge&labelColor=f7dce7&color=f7dce7" alt="Jupyter badge" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/EEG-Analysis-f8c8dc?style=for-the-badge&labelColor=f8c8dc&color=f8c8dc" alt="EEG Analysis badge" />
-  <img src="https://img.shields.io/badge/Biomedical-Signal%20Processing-f4b6c2?style=for-the-badge&labelColor=f4b6c2&color=f4b6c2" alt="Biomedical Signal Processing badge" />
-  <img src="https://img.shields.io/badge/Computational-Neuroscience-f7d6e0?style=for-the-badge&labelColor=f7d6e0&color=f7d6e0" alt="Computational Neuroscience badge" />
-  <img src="https://img.shields.io/badge/Brain%20Computer%20Interface-BCI-f1c3db?style=for-the-badge&labelColor=f1c3db&color=f1c3db" alt="Brain Computer Interface badge" />
-  <img src="https://img.shields.io/badge/Neural-Systems%20Modeling-f0bfd7?style=for-the-badge&labelColor=f0bfd7&color=f0bfd7" alt="Neural Systems Modeling badge" />
-  <img src="https://img.shields.io/badge/Medical-Image%20Analysis-f7d9e8?style=for-the-badge&labelColor=f7d9e8&color=f7d9e8" alt="Medical Image Analysis badge" />
+  <img src="https://img.shields.io/badge/EEG-Analysis-f3d0df?style=for-the-badge&labelColor=f3d0df&color=f3d0df" alt="EEG Analysis badge" />
+  <img src="https://img.shields.io/badge/Biomedical-Signal%20Processing-e9e5ec?style=for-the-badge&labelColor=e9e5ec&color=e9e5ec" alt="Biomedical Signal Processing badge" />
+  <img src="https://img.shields.io/badge/Computational-Neuroscience-f6d6e3?style=for-the-badge&labelColor=f6d6e3&color=f6d6e3" alt="Computational Neuroscience badge" />
+  <img src="https://img.shields.io/badge/Brain%20Computer%20Interface-BCI-ebeaef?style=for-the-badge&labelColor=ebeaef&color=ebeaef" alt="Brain Computer Interface badge" />
+  <img src="https://img.shields.io/badge/Neural-Systems%20Modeling-f2c5db?style=for-the-badge&labelColor=f2c5db&color=f2c5db" alt="Neural Systems Modeling badge" />
+  <img src="https://img.shields.io/badge/Medical-Image%20Analysis-eeeaef?style=for-the-badge&labelColor=eeeaef&color=eeeaef" alt="Medical Image Analysis badge" />
 </p>
 
 ---
