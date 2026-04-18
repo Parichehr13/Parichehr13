@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/brain.svg" width="150" alt="Brain icon" />
+  <img src="./assets/brain.svg" width="165" alt="Brain icon" />
 </p>
 
 <p align="center">
