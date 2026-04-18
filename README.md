@@ -1,4 +1,8 @@
 <!-- profile refresh: 2026-04-18 -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=Parichehr%20Moradi&fontSize=38&fontColor=5c3754&animation=fadeIn&fontAlignY=35&desc=Biomedical%20Engineer%20%7C%20Neuroscience%20%7C%20EEG&descAlignY=55&descSize=16" alt="Profile banner" />
+</p>
+
 <h1 align="center">Hi, I'm Parichehr 🧠</h1>
 
 <p align="center">
@@ -10,39 +14,28 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Neuroscience-Brain%20Signals-f9d5e5?style=for-the-badge" alt="Neuroscience badge" />
-  <img src="https://img.shields.io/badge/EEG-Signal%20Processing-f4b6c2?style=for-the-badge" alt="EEG badge" />
-  <img src="https://img.shields.io/badge/Biomedical-Engineering-f7c6d9?style=for-the-badge" alt="Biomedical Engineering badge" />
-  <img src="https://img.shields.io/badge/Machine-Learning-e8b4f8?style=for-the-badge" alt="Machine Learning badge" />
+  <img src="https://img.shields.io/badge/EEG-Neural%20Signals-f8c8dc?style=for-the-badge" alt="EEG badge" />
+  <img src="https://img.shields.io/badge/Neuroscience-Brain%20Research-f4b6c2?style=for-the-badge" alt="Neuroscience badge" />
+  <img src="https://img.shields.io/badge/Signal%20Processing-Biomedical%20Data-f7d6e0?style=for-the-badge" alt="Signal Processing badge" />
+  <img src="https://img.shields.io/badge/Computational-Neuroscience-e8c8f6?style=for-the-badge" alt="Computational Neuroscience badge" />
 </p>
 
 ---
 
 ## About Me
 
-- Biomedical Engineer with a strong interest in **neuroscience**
-- **Biomedical Engineering MSc student** exploring the intersection of engineering and brain science
-- Working on **EEG signal processing**, **biomedical data analysis**, and **machine learning**
-- Interested in **computational neuroscience**, **brain signal decoding**, and **AI for healthcare**
-- Passionate about projects that connect **engineering**, **biology**, and **intelligent systems**
-
----
-
-## Research Interests
-
-- EEG and neural signal processing
-- Biomedical signal analysis
-- Machine learning for healthcare
-- Computational neuroscience
-- AI for brain research
+- Biomedical Engineering MSc student exploring the meeting point of **engineering**, **brain science**, and **computation**
+- Working on **EEG signal processing**, **biomedical data analysis**, and **brain signal decoding**
+- Especially interested in **computational neuroscience**, **neural systems**, and **AI for healthcare**
+- Drawn to projects that connect **biology**, **modeling**, and **intelligent systems**
 
 ---
 
 ## Current Focus
 
-- Building projects around **EEG analysis** and **biological signal interpretation**
-- Exploring how **machine learning** can support healthcare and neuroscience research
-- Learning more about the intersection of **brain science**, **data**, and **intelligent systems**
+- Building projects around **EEG analysis**, **preprocessing**, and **interpretation of neural signals**
+- Studying how computational methods can support **neuroscience research** and **healthcare applications**
+- Exploring the hidden structure of biological data through **signal processing** and **model-based thinking**
 
 ---
 
@@ -58,11 +51,22 @@
 
 ## Tools & Topics
 
-<p>
-  <img src="https://img.shields.io/badge/Python-Scientific%20Computing-f6c1d0?style=flat-square" alt="Python badge" />
-  <img src="https://img.shields.io/badge/MATLAB-Signal%20Analysis-f8d7da?style=flat-square" alt="MATLAB badge" />
-  <img src="https://img.shields.io/badge/EEG-Neural%20Data-f9e2ea?style=flat-square" alt="EEG topic badge" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-Healthcare-f3c4fb?style=flat-square" alt="Machine Learning topic badge" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Scientific%20Computing-f9d5e5?style=flat-square" alt="Python badge" />
+  <img src="https://img.shields.io/badge/MATLAB-Signal%20Analysis-f7cad0?style=flat-square" alt="MATLAB badge" />
+  <img src="https://img.shields.io/badge/EEG-Neural%20Data-f4acb7?style=flat-square" alt="EEG badge" />
+  <img src="https://img.shields.io/badge/ICA-Preprocessing-fbc4d9?style=flat-square" alt="ICA badge" />
+  <img src="https://img.shields.io/badge/ERP-Time%20Series-eac4ff?style=flat-square" alt="ERP badge" />
+  <img src="https://img.shields.io/badge/Modeling-Neural%20Systems-f1e4f3?style=flat-square" alt="Modeling badge" />
+</p>
+
+---
+
+## GitHub Snapshot
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Parichehr13&show_icons=true&hide_border=true&rank_icon=github&title_color=C06C84&icon_color=E59BB7&text_color=6D4C5B&bg_color=FFF7FA" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parichehr13&layout=compact&hide_border=true&title_color=C06C84&text_color=6D4C5B&bg_color=FFF7FA" alt="Top languages" />
 </p>
 
 ---
@@ -78,5 +82,5 @@
 ## Connect With Me
 
 - GitHub: [Parichehr13](https://github.com/Parichehr13)
-- LinkedIn: [LinkedIn
-](https://www.linkedin.com/in/parichehr-moradi-82b0121a9)
+- LinkedIn: [parichehr-moradi-82b0121a9](https://www.linkedin.com/in/parichehr-moradi-82b0121a9)
+
