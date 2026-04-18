@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Parichehr 🧠</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1400&center=true&vCenter=true&width=900&color=E59BB7&lines=Reading+the+language+of+the+brain%2C+one+signal+at+a+time.;EEG+%7C+Neuroscience+%7C+Signal+Processing+%7C+Computational+Neuroscience" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1400&center=true&vCenter=true&width=900&color=E59BB7&lines=Reading+the+language+of+the+brain%2C+one+signal+at+a+time.;Biomedical+Engineer.;EEG+%7C+Neuroscience+%7C+Signal+Processing+%7C+Computational+Neuroscience" alt="Typing SVG" />
 </p>
 
 <p align="center">
