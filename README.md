@@ -1,6 +1,6 @@
 <!-- profile refresh: 2026-04-18 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=190&section=header&text=%F0%9F%A7%A0%20Hi%2C%20I'm%20Parichehr&fontSize=34&fontColor=5c3754&animation=fadeIn&fontAlignY=40&desc=Biomedical%20Engineer%20%7C%20Neuroscience%20%7C%20EEG&descAlignY=60&descSize=16" alt="Profile banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FCE7F3,45:F9A8D4,100:EC4899&height=190&section=header&text=Hi%2C%20I%27m%20Parichehr%20%F0%9F%A7%A0&fontSize=34&fontColor=6f2d5c&animation=fadeIn&fontAlignY=45" alt="Profile banner" />
 </p>
 
 <p align="center">
