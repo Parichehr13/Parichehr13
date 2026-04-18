@@ -1,8 +1,4 @@
 <!-- profile refresh: 2026-04-18 -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=Parichehr%20Moradi&fontSize=38&fontColor=5c3754&animation=fadeIn&fontAlignY=35&desc=Biomedical%20Engineer%20%7C%20Neuroscience%20%7C%20EEG&descAlignY=55&descSize=16" alt="Profile banner" />
-</p>
-
 <h1 align="center">Hi, I'm Parichehr 🧠</h1>
 
 <p align="center">
