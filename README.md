@@ -1,6 +1,10 @@
 <!-- profile refresh: 2026-04-18 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF1F7,45:FBCFE8,100:F472B6&height=190&section=header&text=Hi%2C%20I%27m%20Parichehr%20%F0%9F%A7%A0&fontSize=34&fontColor=8b3c68&animation=fadeIn&fontAlignY=45" alt="Profile banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF1F7,45:FBCFE8,100:F472B6&height=190&section=header&text=Hi%2C%20I%27m%20Parichehr&fontSize=34&fontColor=8b3c68&animation=fadeIn&fontAlignY=45" alt="Profile banner" />
+</p>
+
+<p align="center">
+  <img src="./assets/cartoon-brain.jpg" width="120" alt="Cartoon brain" />
 </p>
 
 <p align="center">
