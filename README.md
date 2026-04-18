@@ -78,5 +78,5 @@
 ## Connect With Me
 
 - GitHub: [Parichehr13](https://github.com/Parichehr13)
-- LinkedIn: [add your link here
+- LinkedIn: [LinkedIn
 ](https://www.linkedin.com/in/parichehr-moradi-82b0121a9)
