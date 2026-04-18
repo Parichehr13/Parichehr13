@@ -18,19 +18,6 @@
   <img src="https://img.shields.io/badge/Computational-Neuroscience-e8c8f6?style=for-the-badge" alt="Computational Neuroscience badge" />
 </p>
 
-<p align="center">
-  <a href="https://commons.wikimedia.org/wiki/File:Rotating_brain.gif">
-    <img src="./assets/rotating-brain.gif" width="210" alt="Rotating brain" />
-  </a>
-</p>
-
-<p align="center">
-  <sub>
-    Brain GIF source:
-    <a href="https://commons.wikimedia.org/wiki/File:Rotating_brain.gif">Wikimedia Commons</a>
-  </sub>
-</p>
-
 ---
 
 ## About Me
