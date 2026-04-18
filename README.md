@@ -4,11 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1400&center=true&vCenter=true&width=980&color=E088AE&lines=Biomedical+Engineer.;Curious+about+the+brain%2C+inspired+by+engineering%2C+and+passionate+about+decoding+biological+signals+through+science+and+computation.;EEG+%7C+Signal+Processing+%7C+Computational+Neuroscience" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  Curious about the brain, inspired by engineering, and passionate about decoding biological signals through science and computation.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=760&height=90&color=E088AE&multiline=true&repeat=false&lines=Biomedical+Engineer.;Drawn+to+the+brain%2C+grounded+in+engineering." alt="Typing SVG" />
 </p>
 
 <p align="center">
