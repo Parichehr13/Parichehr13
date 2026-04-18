@@ -18,6 +18,12 @@
   <img src="https://img.shields.io/badge/Computational-Neuroscience-e8c8f6?style=for-the-badge" alt="Computational Neuroscience badge" />
 </p>
 
+<p align="center">
+  <a href="https://parichehr13.github.io/brain-site/">
+    <img src="https://img.shields.io/badge/Explore-Interactive%203D%20Brain-df5ca1?style=for-the-badge" alt="Explore interactive 3D brain" />
+  </a>
+</p>
+
 ---
 
 ## About Me
