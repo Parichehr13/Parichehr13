@@ -1,14 +1,10 @@
 <!-- profile refresh: 2026-04-18 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FCE7F3,45:F9A8D4,100:EC4899&height=190&section=header&text=Hi%2C%20I%27m%20Parichehr%20%F0%9F%A7%A0&fontSize=34&fontColor=6f2d5c&animation=fadeIn&fontAlignY=45" alt="Profile banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF1F7,45:FBCFE8,100:F472B6&height=190&section=header&text=Hi%2C%20I%27m%20Parichehr%20%F0%9F%A7%A0&fontSize=34&fontColor=8b3c68&animation=fadeIn&fontAlignY=45" alt="Profile banner" />
 </p>
 
 <p align="center">
-  <img src="./assets/brain.gif" width="260" alt="Pink brain GIF" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1400&center=true&vCenter=true&width=900&color=E59BB7&lines=Biomedical+Engineer.;Reading+the+language+of+the+brain%2C+one+signal+at+a+time.;EEG+%7C+Neuroscience+%7C+Signal+Processing+%7C+Computational+Neuroscience" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1400&center=true&vCenter=true&width=900&color=E088AE&lines=Biomedical+Engineer.;Reading+the+language+of+the+brain%2C+one+signal+at+a+time.;EEG+%7C+Neuroscience+%7C+Signal+Processing+%7C+Computational+Neuroscience" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,10 +12,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/EEG-Neural%20Signals-f8c8dc?style=for-the-badge" alt="EEG badge" />
-  <img src="https://img.shields.io/badge/Neuroscience-Brain%20Research-f4b6c2?style=for-the-badge" alt="Neuroscience badge" />
-  <img src="https://img.shields.io/badge/Signal%20Processing-Biomedical%20Data-f7d6e0?style=for-the-badge" alt="Signal Processing badge" />
-  <img src="https://img.shields.io/badge/Computational-Neuroscience-e8c8f6?style=for-the-badge" alt="Computational Neuroscience badge" />
+  <img src="https://img.shields.io/badge/EEG-Neural%20Signals-f6bfd7?style=for-the-badge" alt="EEG badge" />
+  <img src="https://img.shields.io/badge/Neuroscience-Brain%20Research-f4a9c8?style=for-the-badge" alt="Neuroscience badge" />
+  <img src="https://img.shields.io/badge/Signal%20Processing-Biomedical%20Data-f8d7e7?style=for-the-badge" alt="Signal Processing badge" />
+  <img src="https://img.shields.io/badge/Computational-Neuroscience-f1bdd5?style=for-the-badge" alt="Computational Neuroscience badge" />
 </p>
 
 ---
@@ -58,16 +54,16 @@
   <img src="https://img.shields.io/badge/Python-f9d5e5?style=flat-square" alt="Python badge" />
   <img src="https://img.shields.io/badge/EEGLAB-f4acb7?style=flat-square" alt="EEGLAB badge" />
   <img src="https://img.shields.io/badge/TensorFlow%2FKeras-fbc4d9?style=flat-square" alt="TensorFlow and Keras badge" />
-  <img src="https://img.shields.io/badge/scikit--learn-eac4ff?style=flat-square" alt="scikit-learn badge" />
-  <img src="https://img.shields.io/badge/Jupyter-Notebooks-f1e4f3?style=flat-square" alt="Jupyter badge" />
+  <img src="https://img.shields.io/badge/scikit--learn-f2c6dc?style=flat-square" alt="scikit-learn badge" />
+  <img src="https://img.shields.io/badge/Jupyter-Notebooks-f8e4ee?style=flat-square" alt="Jupyter badge" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/EEG-Analysis-f8c8dc?style=for-the-badge" alt="EEG Analysis badge" />
   <img src="https://img.shields.io/badge/Biomedical-Signal%20Processing-f4b6c2?style=for-the-badge" alt="Biomedical Signal Processing badge" />
   <img src="https://img.shields.io/badge/Computational-Neuroscience-f7d6e0?style=for-the-badge" alt="Computational Neuroscience badge" />
-  <img src="https://img.shields.io/badge/Neural-Systems%20Modeling-e8c8f6?style=for-the-badge" alt="Neural Systems Modeling badge" />
-  <img src="https://img.shields.io/badge/Medical-Image%20Analysis-f3d6ff?style=for-the-badge" alt="Medical Image Analysis badge" />
+  <img src="https://img.shields.io/badge/Neural-Systems%20Modeling-f0bfd7?style=for-the-badge" alt="Neural Systems Modeling badge" />
+  <img src="https://img.shields.io/badge/Medical-Image%20Analysis-f7d9e8?style=for-the-badge" alt="Medical Image Analysis badge" />
 </p>
 
 ---
