@@ -1,5 +1,7 @@
 <!-- profile refresh: 2026-04-18 -->
-<h1 align="center">Hi, I'm Parichehr 🧠</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=190&section=header&text=%F0%9F%A7%A0%20Hi%2C%20I'm%20Parichehr&fontSize=34&fontColor=5c3754&animation=fadeIn&fontAlignY=40&desc=Biomedical%20Engineer%20%7C%20Neuroscience%20%7C%20EEG&descAlignY=60&descSize=16" alt="Profile banner" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1400&center=true&vCenter=true&width=900&color=E59BB7&lines=Biomedical+Engineer.;Reading+the+language+of+the+brain%2C+one+signal+at+a+time.;EEG+%7C+Neuroscience+%7C+Signal+Processing+%7C+Computational+Neuroscience" alt="Typing SVG" />
