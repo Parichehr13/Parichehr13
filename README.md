@@ -19,9 +19,16 @@
 </p>
 
 <p align="center">
-  <a href="https://parichehr13.github.io/brain-site/">
-    <img src="https://img.shields.io/badge/Explore-Interactive%203D%20Brain-df5ca1?style=for-the-badge" alt="Explore interactive 3D brain" />
+  <a href="https://commons.wikimedia.org/wiki/File:Rotating_brain.gif">
+    <img src="./assets/rotating-brain.gif" width="210" alt="Rotating brain" />
   </a>
+</p>
+
+<p align="center">
+  <sub>
+    Brain GIF source:
+    <a href="https://commons.wikimedia.org/wiki/File:Rotating_brain.gif">Wikimedia Commons</a>
+  </sub>
 </p>
 
 ---
