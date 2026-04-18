@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1400&center=true&vCenter=true&width=900&color=E088AE&lines=Biomedical+Engineer.;Reading+the+language+of+the+brain%2C+one+signal+at+a+time.;EEG+%7C+Neuroscience+%7C+Signal+Processing+%7C+Computational+Neuroscience" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1400&center=true&vCenter=true&width=980&color=E088AE&lines=Biomedical+Engineer.;Curious+about+the+brain%2C+inspired+by+engineering%2C+and+passionate+about+decoding+biological+signals+through+science+and+computation.;EEG+%7C+Signal+Processing+%7C+Computational+Neuroscience" alt="Typing SVG" />
 </p>
 
 <p align="center">
