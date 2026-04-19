@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="./assets/slime-jump.gif" width="220" alt="slime animation" />
+  <img src="./assets/slime-jump-mini-games.gif" width="220" alt="slime animation" />
 </p>
-
 ## About Me
 
 I’m interested in the space where **brain signals**, **computation**, and **intelligent systems** come together, and I’m currently completing an MSc in **Biomedical Engineering for Neuroscience** at the **University of Bologna**.
