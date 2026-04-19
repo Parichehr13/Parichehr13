@@ -19,27 +19,6 @@
 </p>
 
 ---
-<!-- profile refresh: 2026-04-18 -->
-<p align="center">
-  <img src="./assets/brain.svg" width="120" alt="Brain icon" />
-</p>
-
-<h1 align="center">Hi, I'm Parichehr</h1>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2200&pause=250&center=true&vCenter=true&width=760&height=90&color=E088AE&multiline=true&repeat=false&lines=Biomedical+Engineer.;Drawn+to+the+brain%2C+grounded+in+engineering." alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/EEG-Neural%20Signals-f6bfd7?style=for-the-badge" alt="EEG badge" />
-  <img src="https://img.shields.io/badge/Neuroscience-Brain%20Research-f4a9c8?style=for-the-badge" alt="Neuroscience badge" />
-  <img src="https://img.shields.io/badge/Signal%20Processing-Biomedical%20Data-f8d7e7?style=for-the-badge" alt="Signal Processing badge" />
-  <img src="https://img.shields.io/badge/Computational-Neuroscience-f1bdd5?style=for-the-badge" alt="Computational Neuroscience badge" />
-</p>
-
----
 
 ## 🔬 About Me
 
