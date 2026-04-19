@@ -17,13 +17,6 @@
 </p>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=1200&pause=1000&color=8ECFA8&center=true&vCenter=true&repeat=false&width=700&height=35&lines=Biomedical+Engineer"
-    alt="Biomedical Engineer"
-  />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/EEG%20Signal%20Processing-f9d8e8?style=for-the-badge&logoColor=1a1a1a" alt="EEG Signal Processing" />
   <img src="https://img.shields.io/badge/Computational%20Neuroscience-d3f0db?style=for-the-badge&logoColor=1a1a1a" alt="Computational Neuroscience" />
   <img src="https://img.shields.io/badge/Brain--Computer%20Interface-f5bfd8?style=for-the-badge&logoColor=1a1a1a" alt="Brain Computer Interface" />
