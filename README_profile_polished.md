@@ -1,5 +1,7 @@
 ## About Me
 
-I’m a biomedical engineer with a background in bioelectric engineering, currently pursuing an MSc in **Biomedical Engineering for Neuroscience** at the **University of Bologna**.
+I’m focused on the space where **brain signals**, **models**, and **code** come together, currently completing an MSc in **Biomedical Engineering for Neuroscience** at the **University of Bologna**.
 
-My interests lie at the intersection of **EEG signal processing**, **biomedical data analysis**, **machine learning**, and **computational neuroscience**. I like working on projects involving **EEG preprocessing and decoding**, **brain signal analysis**, and **medical image analysis**, and I’m especially interested in using **AI** and **quantitative methods** to explore **brain signals**, **neural processes**, and their applications in **neuroscience research** and **healthcare**.
+My work focuses on **EEG signal processing**, **biomedical data analysis**, **machine learning**, and **computational approaches to neuroscience**. I’m particularly interested in projects involving **EEG preprocessing and decoding**, **brain signal analysis**, and **medical image analysis**.
+
+More broadly, I’m interested in using **AI** and **quantitative methods** to study **brain signals** and **neural processes**, and to build computational tools for **neuroscience research** and **healthcare applications**.
