@@ -1,109 +1,99 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Parichehr%20Moradi&fontAlign=50&fontAlignY=35&desc=Biomedical%20Engineering%20%7C%20Computational%20Neuroscience&descAlign=50&descAlignY=55" alt="header" />
-</div>
+# Hi, I'm Parichehr
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&pause=1200&color=E6EDF3&center=true&vCenter=true&width=900&height=52&lines=Hi%2C+I%27m+Parichehr.;Biomedical+Engineering+MSc+student.;Computational+Neuroscience+%7C+Biomedical+Signal+Processing" alt="Typing SVG" />
-</div>
+**Biomedical Engineering MSc Student**  
+*Computational Neuroscience · Biomedical Signal Processing · Neural Systems Modeling*
 
-<div align="center">
-
-![EEG](https://img.shields.io/badge/EEG-0A66C2?style=flat-square)
-![Neuroscience](https://img.shields.io/badge/Neuroscience-6A5ACD?style=flat-square)
-![Signal Processing](https://img.shields.io/badge/Signal%20Processing-0F766E?style=flat-square)
-![Computational Neuroscience](https://img.shields.io/badge/Computational%20Neuroscience-374151?style=flat-square)
-
-</div>
+I am interested in understanding neural and physiological systems through engineering, signal analysis, and computational methods. My work focuses on EEG and ECG analysis, biomedical signal processing, neural systems modeling, and machine learning for biological data.
 
 ---
 
 ## About Me
 
-I am a Biomedical Engineering MSc student at the University of Bologna, with a strong interest in computational neuroscience, biomedical signal processing, and quantitative approaches to neural data.
+I am a Biomedical Engineering MSc student with a strong interest in computational neuroscience and quantitative analysis of biological systems. I enjoy working on problems that connect neuroscience, engineering, and computation, especially in the context of biosignal analysis and neural modeling.
 
-My work focuses on EEG and physiological signal analysis, neural systems modeling, and the use of computational methods to study complex biological processes. I am especially interested in research at the intersection of neuroscience, engineering, and data-driven analysis.
+My academic interests include:
+- EEG and ECG signal analysis
+- Biomedical signal processing
+- Computational neuroscience
+- Neural systems modeling
+- Machine learning for biomedical data
+- Medical imaging analysis
 
 ---
 
 ## Research Interests
 
-- Computational neuroscience
-- EEG and physiological signal analysis
+- **Computational Neuroscience** — neural dynamics, modeling, and quantitative approaches to understanding brain function  
+- **Biomedical Signal Processing** — preprocessing, feature extraction, and interpretation of physiological signals  
+- **EEG Analysis** — artifact removal, time-frequency methods, ERP analysis, and decoding  
+- **Neural Systems Modeling** — integrate-and-fire models, neural mass models, Hodgkin–Huxley dynamics, and network-based approaches  
+- **Applied Machine Learning** — classification and modeling for biosignal and biomedical data  
+
+---
+
+## Technical Skills
+
+### Programming
+- Python
+- MATLAB
+
+### Methods
+- Signal preprocessing
+- Time-frequency analysis
+- ERP analysis
+- ICA-based artifact removal
+- Feature extraction
+- Neural modeling
+- Statistical analysis
+
+### Tools and Areas
+- EEG / ECG analysis
 - Biomedical signal processing
-- Neural systems modeling
-- Machine learning for biosignals
-- Medical image analysis
+- Machine learning
+- Medical imaging workflows
+- Computational modeling
+
+---
+
+## Selected Projects
+
+### EEG Processing
+Preprocessing pipelines for EEG analysis, including ICA-based artifact removal, ERP workflows, time-frequency analysis, and motor imagery decoding.
+
+### EEG Emotion Recognition
+Emotion recognition from EEG signals using convolutional neural networks and benchmark datasets such as DEAP and SEED.
+
+### Biomedical Signal Processing
+Core signal processing workflows for physiological data, including filtering, analysis, and machine learning approaches for classification and regression tasks.
+
+### Neural Systems
+Projects centered on computational models of neural activity, including integrate-and-fire neurons, neural mass models, and Hopfield networks.
+
+### Biological System Modeling
+Modeling physiological and biological dynamics, including membrane behavior, circulation, respiration, gas exchange, nonlinear systems, and Hodgkin–Huxley neurons.
+
+### Medical Imaging Analysis
+Work involving multimodal registration, segmentation methods, and 3D reconstruction from medical imaging data.
 
 ---
 
 ## Current Focus
 
-- Developing projects in EEG preprocessing, feature analysis, and neural signal interpretation
-- Studying computational methods for neuroscience and healthcare applications
-- Exploring model-based and data-driven approaches to biological systems
-
----
-
-## Featured Projects
-
-### [EEG-Emotion-Recognition](https://github.com/Parichehr13/EEG-Emotion-Recognition)
-EEG-based emotion recognition using convolutional neural networks and hyperparameter optimization on the DEAP and SEED datasets.
-
-### [EEG-Processing](https://github.com/Parichehr13/EEG-Processing)
-Workflows for EEG preprocessing, ICA-based artifact removal, ERP analysis, time-frequency methods, and motor-imagery decoding.
-
-### [Neural-Systems](https://github.com/Parichehr13/Neural-Systems)
-Python implementations of neural systems models, including integrate-and-fire neurons, neural mass models, and Hopfield networks.
-
-### [biological-system-modeling](https://github.com/Parichehr13/biological-system-modeling)
-MATLAB-based modeling of biological dynamics, including membrane behavior, circulation, respiration, gas exchange, chaos, and Hodgkin–Huxley neurons.
-
-### [Medical-Imaging-Analysis](https://github.com/Parichehr13/Medical-Imaging-Analysis)
-Medical image analysis in MATLAB, including multimodal registration, level set segmentation, and 3D reconstruction from DICOM and MRI data.
-
-### [ECG-Signal-Processing](https://github.com/Parichehr13/ECG-Signal-Processing)
-Wavelet-based ECG feature extraction and PQRST delineation for cardiovascular signal analysis.
-
----
-
-## Tools & Skills
-
-### Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-FF6F00?style=flat-square)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-### Methods & Domains
-![EEG Analysis](https://img.shields.io/badge/EEG%20Analysis-2563EB?style=flat-square)
-![Biomedical Signal Processing](https://img.shields.io/badge/Biomedical%20Signal%20Processing-0F766E?style=flat-square)
-![Neural Systems Modeling](https://img.shields.io/badge/Neural%20Systems%20Modeling-7C3AED?style=flat-square)
-![Medical Image Analysis](https://img.shields.io/badge/Medical%20Image%20Analysis-DC2626?style=flat-square)
-
-### Libraries & Tools
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![EEGLAB](https://img.shields.io/badge/EEGLAB-1F2937?style=flat-square)
-
----
-
-## GitHub Snapshot
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Parichehr13&show_icons=true&hide_border=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parichehr13&layout=compact&hide_border=true" alt="Top languages" />
-</div>
+I am currently exploring:
+- computational approaches to neural systems
+- EEG-based analysis and decoding
+- biomedical signal processing workflows
+- machine learning methods for physiological data
+- modeling biological and neural dynamics
 
 ---
 
 ## Connect
 
 - GitHub: [Parichehr13](https://github.com/Parichehr13)
-- LinkedIn: [parichehr-moradi-82b0121a9](https://www.linkedin.com/in/parichehr-moradi-82b0121a9/)
-- Email: prchhr.moradi@gmail.com
+- LinkedIn: add your link here
+- Email: add your email here
 
 ---
 
-> "Any man could, if he were so inclined, be the sculptor of his own brain."
->
-> — Santiago Ramón y Cajal
+*Interested in computational neuroscience, biosignal analysis, and engineering approaches to biological systems.*
