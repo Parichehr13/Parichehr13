@@ -20,7 +20,7 @@
 
 ---
 
-## About Me <a href="./assets/slime-jump-mini-games.json"><img src="https://img.shields.io/badge/mini%20animation-f6bfd7?style=flat-square&labelColor=f6bfd7&color=f6bfd7" alt="Mini animation badge" /></a>
+## About Me <img src="./assets/slime-jump-mini-games.gif" width="42" alt="Slime animation" />
 
 - Biomedical Engineering MSc student exploring the meeting point of **engineering**, **brain science**, and **computation**
 - Working on **EEG signal processing**, **biomedical data analysis**, and **brain signal decoding**
