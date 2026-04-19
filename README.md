@@ -1,21 +1,25 @@
-<!-- profile refresh: 2026-04-18 -->
 <p align="center">
-  <img src="./assets/brain.svg" width="120" alt="Brain icon" />
-</p>
-
-<h1 align="center">Hi, I'm Parichehr</h1>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2200&pause=250&center=true&vCenter=true&width=760&height=90&color=E088AE&multiline=true&repeat=false&lines=Biomedical+Engineer.;Drawn+to+the+brain%2C+grounded+in+engineering." alt="Typing SVG" />
+  <img src="./assets/brain.svg" width="115" alt="Brain icon" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/EEG-Neural%20Signals-f6bfd7?style=for-the-badge" alt="EEG badge" />
-  <img src="https://img.shields.io/badge/Neuroscience-Brain%20Research-f4a9c8?style=for-the-badge" alt="Neuroscience badge" />
-  <img src="https://img.shields.io/badge/Signal%20Processing-Biomedical%20Data-f8d7e7?style=for-the-badge" alt="Signal Processing badge" />
-  <img src="https://img.shields.io/badge/Computational-Neuroscience-f1bdd5?style=for-the-badge" alt="Computational Neuroscience badge" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1800&pause=1200&color=F3A8C8&center=true&vCenter=true&repeat=true&width=900&height=80&lines=Hi%2C+I%27m+Parichehr" alt="Pixel title" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=1&pause=1000&color=F7C6DC&center=true&vCenter=true&repeat=false&width=700&height=40&lines=Biomedical+Engineer" alt="Biomedical Engineer" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/EEG%20Signal%20Processing-f9d5e5?style=for-the-badge&logoColor=1a1a1a" alt="EEG Signal Processing" />
+  <img src="https://img.shields.io/badge/Computational%20Neuroscience-f7c6dc?style=for-the-badge&logoColor=1a1a1a" alt="Computational Neuroscience" />
+  <img src="https://img.shields.io/badge/Brain--Computer%20Interface-f5b7d2?style=for-the-badge&logoColor=1a1a1a" alt="Brain Computer Interface" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Biomedical%20Signal%20Processing-f3a8c8?style=for-the-badge&logoColor=1a1a1a" alt="Biomedical Signal Processing" />
+  <img src="https://img.shields.io/badge/Affective%20Computing-f19abd?style=for-the-badge&logoColor=1a1a1a" alt="Affective Computing" />
+  <img src="https://img.shields.io/badge/Medical%20Data%20Analysis-ee8bb3?style=for-the-badge&logoColor=1a1a1a" alt="Medical Data Analysis" />
 </p>
 
 ---
