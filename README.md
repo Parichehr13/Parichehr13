@@ -90,9 +90,20 @@
 
 <p align="center">
   <a href="https://github.com/Parichehr13">
-    <img src="./assets/github-pink.png" width="88" alt="GitHub icon" />
+    <img src="./assets/github-icon-1.png" width="26" alt="GitHub icon 1" />
   </a>
+  <a href="https://github.com/Parichehr13">
+    <img src="./assets/github-icon-2.png" width="26" alt="GitHub icon 2" />
+  </a>
+  <strong> GitHub:</strong> <a href="https://github.com/Parichehr13">Parichehr13</a>
 </p>
 
-- GitHub: [Parichehr13](https://github.com/Parichehr13)
-- LinkedIn: [parichehr-moradi-82b0121a9](https://www.linkedin.com/in/parichehr-moradi-82b0121a9)
+<p align="center">
+  <a href="https://www.linkedin.com/in/parichehr-moradi-82b0121a9">
+    <img src="./assets/linkedin-icon-1.svg" width="26" alt="LinkedIn icon 1" />
+  </a>
+  <a href="https://www.linkedin.com/in/parichehr-moradi-82b0121a9">
+    <img src="./assets/linkedin-icon-2.svg" width="26" alt="LinkedIn icon 2" />
+  </a>
+  <strong> LinkedIn:</strong> <a href="https://www.linkedin.com/in/parichehr-moradi-82b0121a9">parichehr-moradi-82b0121a9</a>
+</p>
