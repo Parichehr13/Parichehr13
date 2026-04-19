@@ -15,5 +15,5 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Biomedical%20Signal%20Processing-f3a8c8?style=for-the-badge" alt="Biomedical Signal Processing" />
   <img src="https://img.shields.io/badge/Affective%20Computing-f19abd?style=for-the-badge" alt="Affective Computing" />
-  <img src="https://img.shields.io/badge/MRI%20Data%20Analysis-ee8bb3?style=for-the-badge" alt="MRI Data Analysis" />
+  <img src="https://img.shields.io/badge/Medical%20Image%20Analysis-ee8bb3?style=for-the-badge" alt="Medical Image Analysis" />
 </p>
