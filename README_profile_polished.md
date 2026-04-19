@@ -3,11 +3,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1800&pause=1200&color=F09FC4&center=true&vCenter=true&repeat=true&width=900&height=80&lines=Hi%2C+I%27m+Parichehr" alt="Pixel title" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=1800&pause=1400&color=8ECFA8&center=true&vCenter=true&repeat=true&width=700&height=40&lines=Biomedical+Engineer" alt="Biomedical Engineer" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1800&pause=900&color=F09FC4&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=95&lines=Hi%2C+I%27m+Parichehr;Biomedical+Engineer"
+    alt="Typing title"
+  />
 </p>
 
 <p align="center">
