@@ -3,23 +3,29 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1800&pause=1200&color=F3A8C8&center=true&vCenter=true&repeat=true&width=900&height=80&lines=Hi%2C+I%27m+Parichehr" alt="Pixel title" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3200&pause=1600&color=F09FC4&center=true&vCenter=true&repeat=false&width=900&height=70&lines=Hi%2C+I%27m+Parichehr"
+    alt="Typing title"
+  />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=1&pause=1000&color=F7C6DC&center=true&vCenter=true&repeat=false&width=700&height=40&lines=Biomedical+Engineer" alt="Biomedical Engineer" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=2600&pause=1400&color=8ECFA8&center=true&vCenter=true&repeat=false&width=700&height=35&lines=Biomedical+Engineer"
+    alt="Biomedical Engineer"
+  />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/EEG%20Signal%20Processing-f9d5e5?style=for-the-badge&logoColor=1a1a1a" alt="EEG Signal Processing" />
-  <img src="https://img.shields.io/badge/Computational%20Neuroscience-f7c6dc?style=for-the-badge&logoColor=1a1a1a" alt="Computational Neuroscience" />
-  <img src="https://img.shields.io/badge/Brain--Computer%20Interface-f5b7d2?style=for-the-badge&logoColor=1a1a1a" alt="Brain Computer Interface" />
+  <img src="https://img.shields.io/badge/EEG%20Signal%20Processing-f9d8e8?style=for-the-badge&logoColor=1a1a1a" alt="EEG Signal Processing" />
+  <img src="https://img.shields.io/badge/Computational%20Neuroscience-d3f0db?style=for-the-badge&logoColor=1a1a1a" alt="Computational Neuroscience" />
+  <img src="https://img.shields.io/badge/Brain--Computer%20Interface-f5bfd8?style=for-the-badge&logoColor=1a1a1a" alt="Brain Computer Interface" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Biomedical%20Signal%20Processing-f3a8c8?style=for-the-badge&logoColor=1a1a1a" alt="Biomedical Signal Processing" />
-  <img src="https://img.shields.io/badge/Affective%20Computing-f19abd?style=for-the-badge&logoColor=1a1a1a" alt="Affective Computing" />
-  <img src="https://img.shields.io/badge/Medical%20Data%20Analysis-ee8bb3?style=for-the-badge&logoColor=1a1a1a" alt="Medical Data Analysis" />
+  <img src="https://img.shields.io/badge/Biomedical%20Signal%20Processing-c1e8cf?style=for-the-badge&logoColor=1a1a1a" alt="Biomedical Signal Processing" />
+  <img src="https://img.shields.io/badge/Affective%20Computing-eea4c6?style=for-the-badge&logoColor=1a1a1a" alt="Affective Computing" />
+  <img src="https://img.shields.io/badge/Medical%20Data%20Analysis-afe0bf?style=for-the-badge&logoColor=1a1a1a" alt="Medical Data Analysis" />
 </p>
 
 ---
@@ -36,34 +42,34 @@
 ## <img src="./assets/intelligence.png" width="28" alt="Technical skills icon" /> Technical Skills
 
 ### Programming
-![MATLAB](https://img.shields.io/badge/MATLAB-f9d5e5?style=for-the-badge&logo=mathworks&logoColor=111111)
-![Python](https://img.shields.io/badge/Python-f7c6dc?style=for-the-badge&logo=python&logoColor=111111)
+![MATLAB](https://img.shields.io/badge/MATLAB-f9d8e8?style=for-the-badge&logo=mathworks&logoColor=111111)
+![Python](https://img.shields.io/badge/Python-d3f0db?style=for-the-badge&logo=python&logoColor=111111)
 
 ### ML / Data Tools
-![PyTorch](https://img.shields.io/badge/PyTorch-f5b7d2?style=for-the-badge&logo=pytorch&logoColor=111111)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-f3a8c8?style=for-the-badge&logo=tensorflow&logoColor=111111)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-f19abd?style=for-the-badge&logo=scikitlearn&logoColor=111111)
-![OpenCV](https://img.shields.io/badge/OpenCV-ee8bb3?style=for-the-badge&logo=opencv&logoColor=111111)
+![PyTorch](https://img.shields.io/badge/PyTorch-f5bfd8?style=for-the-badge&logo=pytorch&logoColor=111111)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-c1e8cf?style=for-the-badge&logo=tensorflow&logoColor=111111)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-eea4c6?style=for-the-badge&logo=scikitlearn&logoColor=111111)
+![OpenCV](https://img.shields.io/badge/OpenCV-afe0bf?style=for-the-badge&logo=opencv&logoColor=111111)
 
 ### Neuro / Imaging Tools
-![EEGLAB](https://img.shields.io/badge/EEGLAB-eb7ca9?style=for-the-badge&logo=matlab&logoColor=111111)
-![Brainstorm](https://img.shields.io/badge/Brainstorm-e76d9e?style=for-the-badge&logoColor=111111)
-![Wavelet Toolbox](https://img.shields.io/badge/Wavelet_Toolbox-e35f94?style=for-the-badge&logo=matlab&logoColor=111111)
-![Image Processing](https://img.shields.io/badge/Image_Processing-db4f89?style=for-the-badge&logo=opencv&logoColor=111111)
-![Medical Imaging](https://img.shields.io/badge/Medical_Imaging-d4407f?style=for-the-badge&logoColor=111111)
+![EEGLAB](https://img.shields.io/badge/EEGLAB-e986b4?style=for-the-badge&logo=matlab&logoColor=111111)
+![Brainstorm](https://img.shields.io/badge/Brainstorm-b2ddc0?style=for-the-badge&logoColor=111111)
+![Wavelet Toolbox](https://img.shields.io/badge/Wavelet_Toolbox-df6fa5?style=for-the-badge&logo=matlab&logoColor=111111)
+![Image Processing](https://img.shields.io/badge/Image_Processing-9dd4af?style=for-the-badge&logo=opencv&logoColor=111111)
+![Medical Imaging](https://img.shields.io/badge/Medical_Imaging-d95893?style=for-the-badge&logoColor=111111)
 
 ### Software & Platforms
-![FreeSurfer](https://img.shields.io/badge/FreeSurfer-cc3174?style=for-the-badge&logoColor=ffffff)
-![FSLeyes](https://img.shields.io/badge/FSLeyes-c42369?style=for-the-badge&logoColor=ffffff)
-![Neurodesk](https://img.shields.io/badge/Neurodesk-bc165f?style=for-the-badge&logoColor=ffffff)
+![FreeSurfer](https://img.shields.io/badge/FreeSurfer-a9d7b7?style=for-the-badge&logoColor=111111)
+![FSLeyes](https://img.shields.io/badge/FSLeyes-d36599?style=for-the-badge&logoColor=111111)
+![Neurodesk](https://img.shields.io/badge/Neurodesk-93cba6?style=for-the-badge&logoColor=111111)
 
 ---
 
 ## GitHub Signals
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Parichehr13&show_icons=true&hide_border=true&rank_icon=github&title_color=F2A7C4&icon_color=CDB7F6&text_color=E8DDE7&bg_color=070D1A" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parichehr13&layout=compact&hide_border=true&title_color=F2A7C4&text_color=E8DDE7&bg_color=070D1A" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Parichehr13&show_icons=true&hide_border=true&rank_icon=github&title_color=F0A3C5&icon_color=95D0AB&text_color=EAF6EE&bg_color=09140E" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parichehr13&layout=compact&hide_border=true&title_color=F0A3C5&text_color=EAF6EE&bg_color=09140E" alt="Top languages" />
 </p>
 
 ---
