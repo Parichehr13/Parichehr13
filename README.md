@@ -88,22 +88,16 @@
 
 ## Connect With Me
 
-<p align="center">
+<p>
   <a href="https://github.com/Parichehr13">
-    <img src="./assets/github-icon-1.png" width="26" alt="GitHub icon 1" />
-  </a>
-  <a href="https://github.com/Parichehr13">
-    <img src="./assets/github-icon-2.png" width="26" alt="GitHub icon 2" />
+    <img src="./assets/github-icon-1.png" width="22" alt="GitHub icon" />
   </a>
   <strong> GitHub:</strong> <a href="https://github.com/Parichehr13">Parichehr13</a>
 </p>
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/parichehr-moradi-82b0121a9">
-    <img src="./assets/linkedin-icon-1.svg" width="26" alt="LinkedIn icon 1" />
-  </a>
-  <a href="https://www.linkedin.com/in/parichehr-moradi-82b0121a9">
-    <img src="./assets/linkedin-icon-2.svg" width="26" alt="LinkedIn icon 2" />
+    <img src="./assets/linkedin-icon-1.svg" width="22" alt="LinkedIn icon" />
   </a>
   <strong> LinkedIn:</strong> <a href="https://www.linkedin.com/in/parichehr-moradi-82b0121a9">parichehr-moradi-82b0121a9</a>
 </p>
