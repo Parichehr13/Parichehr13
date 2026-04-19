@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1800&pause=900&color=F09FC4&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=95&lines=Hi%2C+I%27m+Parichehr;%3Cfont+color%3D%27%238ECFA8%27%3EBiomedical+Engineer%3C%2Ffont%3E"
+    src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=17&duration=1700&pause=1000&color=F09FC4&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=100&lines=Hi%2C+I%27m+Parichehr;Biomedical+Engineer"
     alt="Typing title"
   />
 </p>
