@@ -32,10 +32,10 @@
 
 ## About Me
 
-Biomedical Engineering MSc student working at the intersection of engineering, neuroscience, and computation.
-Focused on EEG signal processing, biomedical data analysis, and brain signal decoding.
-Especially interested in computational neuroscience, neural systems, and AI for healthcare.
-Motivated by projects that connect biology, modeling, and intelligent systems.
+- Biomedical Engineering MSc student working at the intersection of **engineering**, **neuroscience**, and **computation**
+- Focused on **EEG signal processing**, **biomedical data analysis**, and **brain signal decoding**
+- Especially interested in **computational neuroscience**, **neural systems**, and **AI for healthcare**
+- Motivated by projects that connect **biology**, **modeling**, and **intelligent systems**
 ---
 
 ## <img src="./assets/intelligence.png" width="28" alt="Technical skills icon" /> Technical Skills
