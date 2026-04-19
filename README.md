@@ -30,7 +30,7 @@
 
 ---
 
-## <img src="./assets/education.png" width="22" alt="About me icon" /> About Me
+## <img src="./assets/education.png" width="26" alt="About me icon" /> About Me
 
 - Biomedical Engineering MSc student working at the intersection of **engineering**, **neuroscience**, and **computation**
 - Focused on **EEG signal processing**, **biomedical data analysis**, and **brain signal decoding**
@@ -38,7 +38,7 @@
 - Motivated by projects that connect **biology**, **modeling**, and **intelligent systems**
 ---
 
-## <img src="./assets/intelligence.png" width="28" alt="Technical skills icon" /> Technical Skills
+## <img src="./assets/intelligence.png" width="26" alt="Technical skills icon" /> Technical Skills
 
 ### Programming
 ![MATLAB](https://img.shields.io/badge/MATLAB-f9d8e8?style=for-the-badge&logo=mathworks&logoColor=111111)
