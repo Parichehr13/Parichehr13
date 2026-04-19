@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/slime-jump.gif" width="220" alt="slime animation" />
+</p>
+
 ## About Me
 
 I’m focused on the space where **brain signals**, **models**, and **code** come together, currently completing an MSc in **Biomedical Engineering for Neuroscience** at the **University of Bologna**.
