@@ -1,14 +1,3 @@
-<table align="center" cellspacing="0" cellpadding="0" border="0">
-  <tr>
-    <td width="18" height="18"></td>
-    <td width="18" height="18" bgcolor="#dceccb"></td>
-    <td width="760" height="18" bgcolor="#dceccb"></td>
-    <td width="18" height="18" bgcolor="#dceccb"></td>
-  </tr>
-  <tr>
-    <td width="18" height="18" bgcolor="#dceccb"></td>
-    <td colspan="2" bgcolor="#08120d" style="padding: 30px 40px;">
-
 <p align="center">
   <img src="./assets/brain.svg" width="115" alt="Brain icon" />
 </p>
@@ -39,22 +28,11 @@
   <img src="https://img.shields.io/badge/Medical%20Data%20Analysis-afe0bf?style=for-the-badge&logoColor=1a1a1a" alt="Medical Data Analysis" />
 </p>
 
-    </td>
-    <td width="18" height="18" bgcolor="#dceccb"></td>
-  </tr>
-  <tr>
-    <td width="18" height="18"></td>
-    <td width="18" height="18" bgcolor="#dceccb"></td>
-    <td width="760" height="18" bgcolor="#dceccb"></td>
-    <td width="18" height="18" bgcolor="#dceccb"></td>
-  </tr>
-</table>
-
 ---
 
 ## <img src="./assets/education.png" width="26" alt="About me icon" /> About Me
 
-- Biomedical Engineering MSc student working at the intersection of **engineering**, **neuroscience**, and **computation**
+- Interested in the intersection of **neuroscience**, **engineering**, and **computation**
 - Focused on **EEG signal processing**, **biomedical data analysis**, and **brain signal decoding**
 - Especially interested in **computational neuroscience**, **neural systems**, and **AI for healthcare**
 - Motivated by projects that connect **biology**, **modeling**, and **intelligent systems**
@@ -84,6 +62,27 @@
 ![FreeSurfer](https://img.shields.io/badge/FreeSurfer-a9d7b7?style=for-the-badge&logoColor=111111)
 ![FSLeyes](https://img.shields.io/badge/FSLeyes-d36599?style=for-the-badge&logoColor=111111)
 ![Neurodesk](https://img.shields.io/badge/Neurodesk-93cba6?style=for-the-badge&logoColor=111111)
+
+---
+
+## Featured Projects
+
+> selected work across EEG, computational neuroscience, modeling, and medical imaging
+
+🧠 **[EEG Emotion Recognition](https://github.com/Parichehr13/EEG-Emotion-Recognition)**  
+deep-learning models for decoding emotional states from EEG
+
+⚡ **[EEG Processing](https://github.com/Parichehr13/EEG-Processing)**  
+preprocessing, ICA, ERP analysis, time-frequency methods, and motor imagery decoding
+
+🕸️ **[Neural Systems](https://github.com/Parichehr13/Neural-Systems)**  
+computational models of neurons, neural dynamics, and system behavior
+
+🧬 **[Biological System Modeling](https://github.com/Parichehr13/biological-system-modeling)**  
+MATLAB simulations of biological systems, dynamical processes, and neuron behavior
+
+🩻 **[Medical Imaging Analysis](https://github.com/Parichehr13/Medical-Imaging-Analysis)**  
+multimodal registration, segmentation, and 3D reconstruction
 
 ---
 
