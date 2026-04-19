@@ -11,13 +11,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/EEG%20Signal%20Processing-f9d5e5?style=for-the-badge&logo=databricks&logoColor=1a1a1a" alt="EEG Signal Processing" />
-  <img src="https://img.shields.io/badge/Computational%20Neuroscience-f7c6dc?style=for-the-badge&logo=googleanalytics&logoColor=1a1a1a" alt="Computational Neuroscience" />
-  <img src="https://img.shields.io/badge/Brain--Computer%20Interface-f5b7d2?style=for-the-badge&logo=buffer&logoColor=1a1a1a" alt="Brain Computer Interface" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Biomedical%20Signal%20Processing-f3a8c8?style=for-the-badge&logo=scipy&logoColor=1a1a1a" alt="Biomedical Signal Processing" />
-  <img src="https://img.shields.io/badge/Affective%20Computing-f19abd?style=for-the-badge&logo=affinity&logoColor=1a1a1a" alt="Affective Computing" />
-  <img src="https://img.shields.io/badge/MRI%20Data%20Analysis-ee8bb3?style=for-the-badge&logo=opencv&logoColor=1a1a1a" alt="MRI Data Analysis" />
+  <img src="https://img.shields.io/badge/EEG-f9d5e5?style=for-the-badge" alt="EEG" />
+  <img src="https://img.shields.io/badge/Comp%20Neuro-f7c6dc?style=for-the-badge" alt="Computational Neuroscience" />
+  <img src="https://img.shields.io/badge/BCI-f5b7d2?style=for-the-badge" alt="BCI" />
+  <img src="https://img.shields.io/badge/Bio%20Signals-f3a8c8?style=for-the-badge" alt="Biomedical Signal Processing" />
+  <img src="https://img.shields.io/badge/Affective%20Computing-f19abd?style=for-the-badge" alt="Affective Computing" />
+  <img src="https://img.shields.io/badge/MRI%20Analysis-ee8bb3?style=for-the-badge" alt="MRI Analysis" />
 </p>
