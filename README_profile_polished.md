@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=2200&pause=800&color=F3A8C8&center=true&vCenter=true&repeat=true&width=980&height=80&lines=Hi%2C+I%27m+Parichehr;brain+signals+%E2%80%A2+code+%E2%80%A2+research" alt="Pixel title" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1800&pause=1000&color=F3A8C8&center=true&vCenter=true&repeat=true&width=900&height=80&lines=Hi%2C+I%27m+Parichehr" alt="Pixel title" />
 </p>
 
 <p align="center">
