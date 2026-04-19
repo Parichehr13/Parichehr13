@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="./assets/frame-green.png" width="170" alt="pixel frame corner" />
+</p>
+
+<p align="center">
   <img src="./assets/brain.svg" width="115" alt="Brain icon" />
 </p>
 
