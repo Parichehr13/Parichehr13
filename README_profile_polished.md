@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <b>Biomedical Engineer</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=1&pause=1000&color=F7C6DC&center=true&vCenter=true&repeat=false&width=700&height=40&lines=Biomedical+Engineer" alt="Biomedical Engineer" />
 </p>
 
 <p align="center">
@@ -19,5 +19,5 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Biomedical%20Signal%20Processing-f3a8c8?style=for-the-badge&logo=scipy&logoColor=1a1a1a" alt="Biomedical Signal Processing" />
   <img src="https://img.shields.io/badge/Affective%20Computing-f19abd?style=for-the-badge&logo=affinity&logoColor=1a1a1a" alt="Affective Computing" />
-  <img src="https://img.shields.io/badge/MRI%20Data%20Analysis-ee8bb3?style=for-the-badge&logo=opencv&logoColor=1a1a1a" alt="MRI Data Analysis" />
+  <img src="https://img.shields.io/badge/Medical%20Data%20Analysis-ee8bb3?style=for-the-badge&logo=opencv&logoColor=1a1a1a" alt="Medical Data Analysis" />
 </p>
