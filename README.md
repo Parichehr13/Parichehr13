@@ -33,24 +33,6 @@
 
 ---
 
-## Current Focus
-
-- Building projects around **EEG analysis**, **preprocessing**, and **interpretation of neural signals**
-- Studying how computational methods can support **neuroscience research** and **healthcare applications**
-- Exploring the hidden structure of biological data through **signal processing** and **model-based thinking**
-
----
-
-## Featured Projects
-
-- [**EEG-Emotion-Recognition**](https://github.com/Parichehr13/EEG-Emotion-Recognition) - EEG-based emotion recognition with deep learning
-- [**EEG-Processing**](https://github.com/Parichehr13/EEG-Processing) - preprocessing, ICA, ERP, time-frequency analysis, and motor-imagery decoding
-- [**Neural-Systems**](https://github.com/Parichehr13/Neural-Systems) - computational models of neurons and neural systems
-- [**biological-system-modeling**](https://github.com/Parichehr13/biological-system-modeling) - modeling biological systems, dynamics, and neuron behavior in MATLAB
-- [**Medical-Imaging-Analysis**](https://github.com/Parichehr13/Medical-Imaging-Analysis) - multimodal registration, segmentation, and 3D reconstruction
-
----
-
 ## <img src="./assets/intelligence.png" width="28" alt="Technical skills icon" /> Technical Skills
 
 ### Programming
