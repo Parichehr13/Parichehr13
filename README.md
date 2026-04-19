@@ -88,5 +88,11 @@
 
 ## Connect With Me
 
+<p align="center">
+  <a href="https://github.com/Parichehr13">
+    <img src="./assets/github-pink.png" width="88" alt="GitHub icon" />
+  </a>
+</p>
+
 - GitHub: [Parichehr13](https://github.com/Parichehr13)
 - LinkedIn: [parichehr-moradi-82b0121a9](https://www.linkedin.com/in/parichehr-moradi-82b0121a9)
