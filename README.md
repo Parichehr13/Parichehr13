@@ -24,7 +24,7 @@
 
 ---
 
-## 🔬 About Me
+## About Me
 
 - Biomedical Engineering MSc student exploring the meeting point of **engineering**, **brain science**, and **computation**
 - Working on **EEG signal processing**, **biomedical data analysis**, and **brain signal decoding**
@@ -33,7 +33,25 @@
 
 ---
 
-## 💻 Technical Skills
+## Current Focus
+
+- Building projects around **EEG analysis**, **preprocessing**, and **interpretation of neural signals**
+- Studying how computational methods can support **neuroscience research** and **healthcare applications**
+- Exploring the hidden structure of biological data through **signal processing** and **model-based thinking**
+
+---
+
+## Featured Projects
+
+- [**EEG-Emotion-Recognition**](https://github.com/Parichehr13/EEG-Emotion-Recognition) - EEG-based emotion recognition with deep learning
+- [**EEG-Processing**](https://github.com/Parichehr13/EEG-Processing) - preprocessing, ICA, ERP, time-frequency analysis, and motor-imagery decoding
+- [**Neural-Systems**](https://github.com/Parichehr13/Neural-Systems) - computational models of neurons and neural systems
+- [**biological-system-modeling**](https://github.com/Parichehr13/biological-system-modeling) - modeling biological systems, dynamics, and neuron behavior in MATLAB
+- [**Medical-Imaging-Analysis**](https://github.com/Parichehr13/Medical-Imaging-Analysis) - multimodal registration, segmentation, and 3D reconstruction
+
+---
+
+## <img src="./assets/intelligence.png" width="28" alt="Technical skills icon" /> Technical Skills
 
 ### Programming
 ![MATLAB](https://img.shields.io/badge/MATLAB-f9d5e5?style=for-the-badge&logo=mathworks&logoColor=111111)
@@ -56,6 +74,7 @@
 ![FreeSurfer](https://img.shields.io/badge/FreeSurfer-cc3174?style=for-the-badge&logoColor=ffffff)
 ![FSLeyes](https://img.shields.io/badge/FSLeyes-c42369?style=for-the-badge&logoColor=ffffff)
 ![Neurodesk](https://img.shields.io/badge/Neurodesk-bc165f?style=for-the-badge&logoColor=ffffff)
+
 ---
 
 ## GitHub Snapshot
