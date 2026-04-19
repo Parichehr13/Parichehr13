@@ -4,7 +4,6 @@
 
 <br>
 
-<!-- Keep your original brain asset here -->
 <img src="./assets/brain.png" alt="Brain icon" width="64" />
 
 # Hi, I'm Parichehr
@@ -22,28 +21,53 @@ Curious about the brain, inspired by engineering, and passionate about decoding 
 
 ## About
 
-- Biomedical Engineering MSc student at the **University of Bologna (UNIBO)**
-- Interested in the intersection of **engineering, neuroscience, and computation**
-- Drawn to research that connects **biological systems, signal analysis, and quantitative modeling**
+I am a Biomedical Engineering MSc student at the **University of Bologna (UNIBO)** with a growing interest in the quantitative study of neural and physiological systems. My work is shaped by the idea that biological signals are not only measurements, but also sources of structure and meaning that can be explored through engineering, modeling, and computation.
+
+I am especially interested in problems that connect **neuroscience, signal processing, and mathematical thinking**. Through coursework and project-based work, I have been building experience in EEG analysis, neural systems modeling, biomedical signal processing, and computational methods for interpreting complex biological data.
+
+What draws me most is the possibility of using engineering tools to better understand how neural systems behave, how physiological signals can be represented and analyzed, and how computational approaches can support both scientific insight and healthcare applications.
 
 ---
 
 ## Research Interests
 
-- **Computational Neuroscience**
-- **Biomedical Signal Processing**
-- **EEG and physiological signal analysis**
-- **Neural Systems Modeling**
-- **Machine Learning for biomedical data**
-- **Medical Imaging Analysis**
+My interests are centered on the intersection of **brain science, physiological data, and computational analysis**. I am particularly drawn to research areas where mathematical models and signal-based methods can help reveal meaningful patterns in neural and biological systems.
+
+### Areas of Interest
+
+- **Computational Neuroscience**  
+  Exploring how neural activity, neural dynamics, and brain-related processes can be studied through computational and mathematical frameworks.
+
+- **Biomedical Signal Processing**  
+  Working with physiological signals such as EEG and ECG through preprocessing, denoising, feature extraction, and quantitative analysis.
+
+- **EEG Analysis and Neural Decoding**  
+  Investigating how EEG signals can be used to study brain states, cognitive processes, and signal patterns relevant to neuroscience and applied biomedical problems.
+
+- **Neural Systems Modeling**  
+  Studying simplified and biophysically inspired models of neurons and neural systems, including dynamical and network-based perspectives.
+
+- **Machine Learning for Biomedical Data**  
+  Applying machine learning methods to classification, interpretation, and representation of complex biological signals.
+
+- **Medical Imaging Analysis**  
+  Exploring computational techniques for segmentation, registration, and image-based analysis in biomedical contexts.
 
 ---
 
 ## Current Focus
 
-- Building projects around **EEG preprocessing, signal interpretation, and neural data analysis**
-- Exploring how **computational methods** can support neuroscience research and healthcare applications
-- Studying biological systems through **signal processing, modeling, and data-driven approaches**
+At the moment, I am mainly focused on strengthening the bridge between **signal-level analysis** and **system-level understanding**.
+
+This includes:
+
+- developing more structured workflows for **EEG preprocessing, artifact handling, and signal interpretation**
+- studying how **computational methods** can support neuroscience research and biologically informed data analysis
+- improving my understanding of **neural modeling**, especially where mathematical representations and biological plausibility meet
+- exploring how **machine learning** can be used carefully and meaningfully in biomedical signal analysis
+- building projects that reflect both **technical rigor** and **scientific curiosity**
+
+More broadly, I want my work to move toward questions where engineering does not only process data, but also helps explain the systems behind it.
 
 ---
 
