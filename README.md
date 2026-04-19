@@ -19,21 +19,23 @@
 </p>
 
 ---
+## About Me
 
-## About Me <img src="./assets/slime-jump-mini-games.gif" width="42" alt="Slime animation" />
+<table>
+  <tr>
+    <td valign="top">
 
 - Biomedical Engineering MSc student exploring the meeting point of **engineering**, **brain science**, and **computation**
 - Working on **EEG signal processing**, **biomedical data analysis**, and **brain signal decoding**
 - Especially interested in **computational neuroscience**, **neural systems**, and **AI for healthcare**
 - Drawn to projects that connect **biology**, **modeling**, and **intelligent systems**
 
----
-
-## Current Focus
-
-- Building projects around **EEG analysis**, **preprocessing**, and **interpretation of neural signals**
-- Studying how computational methods can support **neuroscience research** and **healthcare applications**
-- Exploring the hidden structure of biological data through **signal processing** and **model-based thinking**
+    </td>
+    <td valign="top" align="center">
+      <img src="./assets/slime-jump-mini-games.gif" width="110" alt="Slime animation" />
+    </td>
+  </tr>
+</table>
 
 ---
 
