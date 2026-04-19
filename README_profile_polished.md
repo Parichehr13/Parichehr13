@@ -1,23 +1,16 @@
-<p align="center">
-  <img src="./assets/brain.svg" width="115" alt="Brain icon" />
-</p>
+## Featured Projects
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1800&pause=1200&color=F3A8C8&center=true&vCenter=true&repeat=true&width=900&height=80&lines=Hi%2C+I%27m+Parichehr" alt="Pixel title" />
-</p>
+- **[EEG Emotion Recognition](https://github.com/Parichehr13/EEG-Emotion-Recognition)**  
+  decoding emotion from EEG using deep-learning models
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=1&pause=1000&color=F7C6DC&center=true&vCenter=true&repeat=false&width=700&height=40&lines=Biomedical+Engineer" alt="Biomedical Engineer" />
-</p>
+- **[EEG Processing](https://github.com/Parichehr13/EEG-Processing)**  
+  preprocessing pipelines, ICA, ERP analysis, time-frequency methods, and motor imagery decoding
 
-<p align="center">
-  <img src="https://img.shields.io/badge/EEG%20Signal%20Processing-f9d5e5?style=for-the-badge&logoColor=1a1a1a" alt="EEG Signal Processing" />
-  <img src="https://img.shields.io/badge/Computational%20Neuroscience-f7c6dc?style=for-the-badge&logoColor=1a1a1a" alt="Computational Neuroscience" />
-  <img src="https://img.shields.io/badge/Brain--Computer%20Interface-f5b7d2?style=for-the-badge&logoColor=1a1a1a" alt="Brain Computer Interface" />
-</p>
+- **[Neural Systems](https://github.com/Parichehr13/Neural-Systems)**  
+  computational models of neurons, neural circuits, and dynamical systems
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Biomedical%20Signal%20Processing-f3a8c8?style=for-the-badge&logoColor=1a1a1a" alt="Biomedical Signal Processing" />
-  <img src="https://img.shields.io/badge/Affective%20Computing-f19abd?style=for-the-badge&logoColor=1a1a1a" alt="Affective Computing" />
-  <img src="https://img.shields.io/badge/Medical%20Data%20Analysis-ee8bb3?style=for-the-badge&logoColor=1a1a1a" alt="Medical Data Analysis" />
-</p>
+- **[Biological System Modeling](https://github.com/Parichehr13/biological-system-modeling)**  
+  MATLAB-based modeling of biological dynamics and neuron behavior
+
+- **[Medical Imaging Analysis](https://github.com/Parichehr13/Medical-Imaging-Analysis)**  
+  multimodal registration, segmentation, and 3D reconstruction for medical images
