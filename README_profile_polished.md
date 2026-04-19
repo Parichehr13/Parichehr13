@@ -7,16 +7,16 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=1&pause=1000&color=D9B85F&center=true&vCenter=true&repeat=false&width=700&height=38&lines=Biomedical+Engineer" alt="Biomedical Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=1&pause=1000&color=88B59A&center=true&vCenter=true&repeat=false&width=700&height=38&lines=Biomedical+Engineer" alt="Biomedical Engineer" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/EEG%20Signal%20Processing-F4DCE7?style=flat-square" />
-  <img src="https://img.shields.io/badge/Computational%20Neuroscience-F5E7B8?style=flat-square" />
+  <img src="https://img.shields.io/badge/Computational%20Neuroscience-D7EFD9?style=flat-square" />
   <img src="https://img.shields.io/badge/Brain--Computer%20Interface-EEC8DA?style=flat-square" />
-  <img src="https://img.shields.io/badge/Biomedical%20Signal%20Processing-F0DF9D?style=flat-square" />
+  <img src="https://img.shields.io/badge/Biomedical%20Signal%20Processing-C7E5CD?style=flat-square" />
   <img src="https://img.shields.io/badge/Affective%20Computing-E5B3CC?style=flat-square" />
-  <img src="https://img.shields.io/badge/Medical%20Data%20Analysis-EAD47A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Medical%20Data%20Analysis-B6D9BF?style=flat-square" />
 </p>
 
 <br>
@@ -34,33 +34,33 @@
 
 ### Programming
 ![MATLAB](https://img.shields.io/badge/MATLAB-F3E4EC?style=flat-square&logo=mathworks&logoColor=111111)
-![Python](https://img.shields.io/badge/Python-F8EAAE?style=flat-square&logo=python&logoColor=111111)
+![Python](https://img.shields.io/badge/Python-D9EEDB?style=flat-square&logo=python&logoColor=111111)
 
 ### ML / Data Tools
 ![PyTorch](https://img.shields.io/badge/PyTorch-EBC9D9?style=flat-square&logo=pytorch&logoColor=111111)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-F3E1A0?style=flat-square&logo=tensorflow&logoColor=111111)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-CFE7D2?style=flat-square&logo=tensorflow&logoColor=111111)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-E3AFC8?style=flat-square&logo=scikitlearn&logoColor=111111)
-![OpenCV](https://img.shields.io/badge/OpenCV-E8D27E?style=flat-square&logo=opencv&logoColor=111111)
+![OpenCV](https://img.shields.io/badge/OpenCV-BFDCC5?style=flat-square&logo=opencv&logoColor=111111)
 
 ### Neuro / Imaging Tools
 ![EEGLAB](https://img.shields.io/badge/EEGLAB-E2B3C8?style=flat-square&logo=matlab&logoColor=111111)
-![Brainstorm](https://img.shields.io/badge/Brainstorm-F4E5AE?style=flat-square&logoColor=111111)
+![Brainstorm](https://img.shields.io/badge/Brainstorm-D4EAD7?style=flat-square&logoColor=111111)
 ![Wavelet Toolbox](https://img.shields.io/badge/Wavelet_Toolbox-DC9CB9?style=flat-square&logo=matlab&logoColor=111111)
-![Image Processing](https://img.shields.io/badge/Image_Processing-E5CB71?style=flat-square&logo=opencv&logoColor=111111)
+![Image Processing](https://img.shields.io/badge/Image_Processing-B1D3B8?style=flat-square&logo=opencv&logoColor=111111)
 ![Medical Imaging](https://img.shields.io/badge/Medical_Imaging-CD86A7?style=flat-square&logoColor=111111)
 
 ### Software & Platforms
-![FreeSurfer](https://img.shields.io/badge/FreeSurfer-F0DE95?style=flat-square&logoColor=111111)
+![FreeSurfer](https://img.shields.io/badge/FreeSurfer-CBE4D0?style=flat-square&logoColor=111111)
 ![FSLeyes](https://img.shields.io/badge/FSLeyes-CF84A8?style=flat-square&logoColor=111111)
-![Neurodesk](https://img.shields.io/badge/Neurodesk-DFC35C?style=flat-square&logoColor=111111)
+![Neurodesk](https://img.shields.io/badge/Neurodesk-A2C8AB?style=flat-square&logoColor=111111)
 
 <br>
 
 ## GitHub Signals
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Parichehr13&show_icons=true&hide_border=true&rank_icon=github&title_color=EEA9C8&icon_color=E2C76A&text_color=F3EED8&bg_color=15110A" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parichehr13&layout=compact&hide_border=true&title_color=EEA9C8&text_color=F3EED8&bg_color=15110A" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Parichehr13&show_icons=true&hide_border=true&rank_icon=github&title_color=EEA9C8&icon_color=9AC7A7&text_color=E7F1E9&bg_color=0B1510" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parichehr13&layout=compact&hide_border=true&title_color=EEA9C8&text_color=E7F1E9&bg_color=0B1510" />
 </p>
 
 <br>
