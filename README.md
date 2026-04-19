@@ -39,51 +39,6 @@
 
 ---
 
-## GitHub Snapshot
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Parichehr13&show_icons=true&hide_border=true&rank_icon=github&title_color=C06C84&icon_color=E59BB7&text_color=6D4C5B&bg_color=FFF7FA" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parichehr13&layout=compact&hide_border=true&title_color=C06C84&text_color=6D4C5B&bg_color=FFF7FA" alt="Top languages" />
-</p>
-
----
-
-## Quote
-
-> "Any man could, if he were so inclined, be the sculptor of his own brain."
->
-> Santiago Ramon y Cajal
-
----
-
-## Connect With Me
-
-<p>
-  <a href="https://github.com/Parichehr13">
-    <img src="./assets/github-icon-1.png" width="22" alt="GitHub icon" />
-  </a>
-  <strong> GitHub:</strong> <a href="https://github.com/Parichehr13">Parichehr13</a>
-</p>
-
-<p>
-  <a href="https://www.linkedin.com/in/parichehr-moradi-82b0121a9">
-    <img src="./assets/linkedin-icon-1.svg" width="22" alt="LinkedIn icon" />
-  </a>
-  <strong> LinkedIn:</strong> <a href="https://www.linkedin.com/in/parichehr-moradi-82b0121a9">parichehr-moradi-82b0121a9</a>
-</p>
-
----
-
-## Featured Projects
-
-- [**EEG-Emotion-Recognition**](https://github.com/Parichehr13/EEG-Emotion-Recognition) - EEG-based emotion recognition with deep learning
-- [**EEG-Processing**](https://github.com/Parichehr13/EEG-Processing) - preprocessing, ICA, ERP, time-frequency analysis, and motor-imagery decoding
-- [**Neural-Systems**](https://github.com/Parichehr13/Neural-Systems) - computational models of neurons and neural systems
-- [**biological-system-modeling**](https://github.com/Parichehr13/biological-system-modeling) - modeling biological systems, dynamics, and neuron behavior in MATLAB
-- [**Medical-Imaging-Analysis**](https://github.com/Parichehr13/Medical-Imaging-Analysis) - multimodal registration, segmentation, and 3D reconstruction
-
----
-
 ## 💻 Technical Skills
 
 ### Programming
