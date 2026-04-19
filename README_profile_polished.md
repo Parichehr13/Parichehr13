@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/brain.svg" width="118" alt="Brain icon" />
+  <img src="./assets/brain.svg" width="115" alt="Brain icon" />
 </p>
 
 <p align="center">
@@ -11,10 +11,13 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/EEG-fbe1ec?style=for-the-badge&labelColor=fbe1ec&color=fbe1ec" alt="EEG" />
-  <img src="https://img.shields.io/badge/Comp%20Neuro-f8cfe0?style=for-the-badge&labelColor=f8cfe0&color=f8cfe0" alt="Computational Neuroscience" />
-  <img src="https://img.shields.io/badge/BCI-f5bdd3?style=for-the-badge&labelColor=f5bdd3&color=f5bdd3" alt="Brain Computer Interface" />
-  <img src="https://img.shields.io/badge/Bio%20Signals-f2aac6?style=for-the-badge&labelColor=f2aac6&color=f2aac6" alt="Biomedical Signal Processing" />
-  <img src="https://img.shields.io/badge/Affective-ef98ba?style=for-the-badge&labelColor=ef98ba&color=ef98ba" alt="Affective Computing" />
-  <img src="https://img.shields.io/badge/Medical%20Image-f08db5?style=for-the-badge&labelColor=f08db5&color=f08db5" alt="Medical Image Analysis" />
+  <img src="https://img.shields.io/badge/EEG%20Signal%20Processing-f9d5e5?style=for-the-badge&logoColor=1a1a1a" alt="EEG Signal Processing" />
+  <img src="https://img.shields.io/badge/Computational%20Neuroscience-f7c6dc?style=for-the-badge&logoColor=1a1a1a" alt="Computational Neuroscience" />
+  <img src="https://img.shields.io/badge/Brain--Computer%20Interface-f5b7d2?style=for-the-badge&logoColor=1a1a1a" alt="Brain Computer Interface" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Biomedical%20Signal%20Processing-f3a8c8?style=for-the-badge&logoColor=1a1a1a" alt="Biomedical Signal Processing" />
+  <img src="https://img.shields.io/badge/Affective%20Computing-f19abd?style=for-the-badge&logoColor=1a1a1a" alt="Affective Computing" />
+  <img src="https://img.shields.io/badge/Medical%20Data%20Analysis-ee8bb3?style=for-the-badge&logoColor=1a1a1a" alt="Medical Data Analysis" />
 </p>
