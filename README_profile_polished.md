@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/brain.svg" width="95" alt="Brain icon" />
+  <img src="./assets/brain.svg" width="115" alt="Brain icon" />
 </p>
 
 <p align="center">
@@ -11,13 +11,13 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/EEG%20Signal%20Processing-f9d5e5?style=for-the-badge&logo=databricks&logoColor=1a1a1a" alt="EEG Signal Processing" />
-  <img src="https://img.shields.io/badge/Computational%20Neuroscience-f7c6dc?style=for-the-badge&logo=googleanalytics&logoColor=1a1a1a" alt="Computational Neuroscience" />
-  <img src="https://img.shields.io/badge/Brain--Computer%20Interface-f5b7d2?style=for-the-badge&logo=buffer&logoColor=1a1a1a" alt="Brain Computer Interface" />
+  <img src="https://img.shields.io/badge/EEG%20Signal%20Processing-f9d5e5?style=for-the-badge&logoColor=1a1a1a" alt="EEG Signal Processing" />
+  <img src="https://img.shields.io/badge/Computational%20Neuroscience-f7c6dc?style=for-the-badge&logoColor=1a1a1a" alt="Computational Neuroscience" />
+  <img src="https://img.shields.io/badge/Brain--Computer%20Interface-f5b7d2?style=for-the-badge&logoColor=1a1a1a" alt="Brain Computer Interface" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Biomedical%20Signal%20Processing-f3a8c8?style=for-the-badge&logo=scipy&logoColor=1a1a1a" alt="Biomedical Signal Processing" />
-  <img src="https://img.shields.io/badge/Affective%20Computing-f19abd?style=for-the-badge&logo=affinity&logoColor=1a1a1a" alt="Affective Computing" />
-  <img src="https://img.shields.io/badge/Medical%20Data%20Analysis-ee8bb3?style=for-the-badge&logo=opencv&logoColor=1a1a1a" alt="Medical Data Analysis" />
+  <img src="https://img.shields.io/badge/Biomedical%20Signal%20Processing-f3a8c8?style=for-the-badge&logoColor=1a1a1a" alt="Biomedical Signal Processing" />
+  <img src="https://img.shields.io/badge/Affective%20Computing-f19abd?style=for-the-badge&logoColor=1a1a1a" alt="Affective Computing" />
+  <img src="https://img.shields.io/badge/Medical%20Data%20Analysis-ee8bb3?style=for-the-badge&logoColor=1a1a1a" alt="Medical Data Analysis" />
 </p>
