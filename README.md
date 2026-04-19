@@ -24,7 +24,7 @@
 
 ---
 
-## About Me
+## <img src="./assets/education.png" width="28" alt="About me icon" /> About Me
 
 - Biomedical Engineering MSc student exploring the meeting point of **engineering**, **brain science**, and **computation**
 - Working on **EEG signal processing**, **biomedical data analysis**, and **brain signal decoding**
