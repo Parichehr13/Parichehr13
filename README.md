@@ -1,11 +1,11 @@
 <!-- profile refresh: 2026-04-18 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF1F7,45:FBCFE8,100:F472B6&height=190&section=header&text=Hi%2C%20I%27m%20Parichehr&fontSize=34&fontColor=8b3c68&animation=fadeIn&fontAlignY=45" alt="Profile banner" />
-</p>
-
-<p align="center">
   <img src="./assets/brain.svg" width="120" alt="Brain icon" />
 </p>
+
+<h1 align="center">Hi, I'm Parichehr</h1>
+
+---
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2200&pause=250&center=true&vCenter=true&width=760&height=90&color=E088AE&multiline=true&repeat=false&lines=Biomedical+Engineer.;Drawn+to+the+brain%2C+grounded+in+engineering." alt="Typing SVG" />
