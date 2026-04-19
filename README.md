@@ -30,7 +30,7 @@
 
 ---
 
-## <img src="./assets/education.png" width="28" alt="About me icon" /> About Me
+## About Me
 
 Biomedical Engineering MSc student working at the intersection of engineering, neuroscience, and computation.
 Focused on EEG signal processing, biomedical data analysis, and brain signal decoding.
