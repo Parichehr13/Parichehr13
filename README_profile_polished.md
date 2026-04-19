@@ -4,14 +4,13 @@
 
 <br>
 
-<!-- Keep your original brain asset here -->
-<img src="./assets/brain.png" alt="Brain icon" width="64" />
+<img src="https://img.icons8.com/color/96/brain.png" alt="Brain icon" width="64" />
 
 # Hi, I'm Parichehr
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=C86B98&center=true&vCenter=true&width=820&height=55&lines=Biomedical+Engineering+MSc+student;Curious+about+the+brain%2C+inspired+by+engineering;Decoding+biological+signals+through+science+and+computation&background=FFF0F600" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=C86B98&center=true&vCenter=true&width=820&height=55&lines=Biomedical+Engineering+MSc+student;Computational+Neuroscience+%26+Biomedical+Signal+Processing;EEG+%7C+Neural+Systems+Modeling+%7C+Machine+Learning&background=FFF0F600" alt="Typing SVG" />
 
-Curious about the brain, inspired by engineering, and passionate about decoding biological signals through science and computation.
+Biomedical Engineering MSc student working at the intersection of **neuroscience, signal processing, and computation**.
 
 [![EEG](https://img.shields.io/badge/EEG-Analysis-F7B2C6?style=flat-square)](#)
 [![Neuroscience](https://img.shields.io/badge/Neuroscience-Computational-E7A3BE?style=flat-square)](#)
@@ -22,10 +21,10 @@ Curious about the brain, inspired by engineering, and passionate about decoding 
 
 ## About Me
 
-- Biomedical Engineering MSc student exploring the meeting point of **engineering, brain science, and computation**
-- Working on **EEG signal processing, biomedical data analysis, and brain signal decoding**
-- Especially interested in **computational neuroscience, neural systems, and AI for healthcare**
-- Drawn to projects that connect **biology, modeling, and intelligent systems**
+- Biomedical Engineering MSc student at the **University of Bologna (UNIBO)**
+- Interested in the meeting point of **engineering, brain science, and computation**
+- Working on **EEG signal processing, biomedical data analysis, and neural signal decoding**
+- Especially interested in **computational neuroscience, neural systems modeling, and AI for healthcare**
 
 ---
 
@@ -33,7 +32,7 @@ Curious about the brain, inspired by engineering, and passionate about decoding 
 
 - Building projects around **EEG analysis, preprocessing, and interpretation of neural signals**
 - Studying how **computational methods** can support neuroscience research and healthcare applications
-- Exploring the hidden structure of **biological data** through signal processing and model-based thinking
+- Exploring the structure of **biological data** through signal processing and model-based thinking
 
 ---
 
@@ -56,12 +55,10 @@ Curious about the brain, inspired by engineering, and passionate about decoding 
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-Machine%20Learning-E7A3BE?style=flat-square)](#)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-F7D1DC?style=flat-square)](#)
 
-[![EEG Analysis](https://img.shields.io/badge/EEG-Analysis-F1B8CC?style=flat-square)](#)
-[![Biomedical Signal Processing](https://img.shields.io/badge/Biomedical%20Signal%20Processing-EEG%20%26%20ECG-EA9AB2?style=flat-square)](#)
-[![Computational Neuroscience](https://img.shields.io/badge/Computational-Neuroscience-DC8CA9?style=flat-square)](#)
-[![Brain Computer Interface](https://img.shields.io/badge/Brain--Computer%20Interface-Research-F7D1DC?style=flat-square)](#)
-[![Neural Systems Modeling](https://img.shields.io/badge/Neural%20Systems-Modeling-E7A3BE?style=flat-square)](#)
-[![Medical Image Analysis](https://img.shields.io/badge/Medical%20Image-Analysis-F6C4D4?style=flat-square)](#)
+[![Biomedical Signal Processing](https://img.shields.io/badge/Biomedical%20Signal%20Processing-EEG%20%26%20ECG-F1B8CC?style=flat-square)](#)
+[![Computational Neuroscience](https://img.shields.io/badge/Computational-Neuroscience-EA9AB2?style=flat-square)](#)
+[![Neural Systems Modeling](https://img.shields.io/badge/Neural%20Systems-Modeling-DC8CA9?style=flat-square)](#)
+[![Medical Image Analysis](https://img.shields.io/badge/Medical%20Image-Analysis-F7D1DC?style=flat-square)](#)
 
 ---
 
@@ -74,12 +71,7 @@ Curious about the brain, inspired by engineering, and passionate about decoding 
 
 ## Quote
 
-<div align="center">
-  <img src="https://img.icons8.com/color/96/brain.png" alt="Decorative brain icon" width="42" />
-</div>
-
-> "Any man could, if he were so inclined, be the sculptor of his own brain."
->
+> "Any man could, if he were so inclined, be the sculptor of his own brain."  
 > **Santiago Ramón y Cajal**
 
 ---
@@ -88,5 +80,4 @@ Curious about the brain, inspired by engineering, and passionate about decoding 
 
 - GitHub: [Parichehr13](https://github.com/Parichehr13)
 - LinkedIn: [parichehr-moradi-82b0121a9](https://www.linkedin.com/in/parichehr-moradi-82b0121a9)
-
 
