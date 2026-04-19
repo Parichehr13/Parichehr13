@@ -3,17 +3,21 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1800&pause=1000&color=F3A8C8&center=true&vCenter=true&repeat=true&width=900&height=80&lines=Hi%2C+I%27m+Parichehr" alt="Pixel title" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1800&pause=1200&color=F3A8C8&center=true&vCenter=true&repeat=true&width=900&height=80&lines=Hi%2C+I%27m+Parichehr" alt="Pixel title" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/EEG%20Signal%20Processing-f9d5e5?style=for-the-badge" alt="EEG Signal Processing" />
-  <img src="https://img.shields.io/badge/Computational%20Neuroscience-f7c6dc?style=for-the-badge" alt="Computational Neuroscience" />
-  <img src="https://img.shields.io/badge/Brain--Computer%20Interface-f5b7d2?style=for-the-badge" alt="Brain Computer Interface" />
+  <b>Biomedical Engineer</b>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Biomedical%20Signal%20Processing-f3a8c8?style=for-the-badge" alt="Biomedical Signal Processing" />
-  <img src="https://img.shields.io/badge/Affective%20Computing-f19abd?style=for-the-badge" alt="Affective Computing" />
-  <img src="https://img.shields.io/badge/Medical%20Image%20Analysis-ee8bb3?style=for-the-badge" alt="Medical Image Analysis" />
+  <img src="https://img.shields.io/badge/EEG%20Signal%20Processing-f9d5e5?style=for-the-badge&logo=databricks&logoColor=1a1a1a" alt="EEG Signal Processing" />
+  <img src="https://img.shields.io/badge/Computational%20Neuroscience-f7c6dc?style=for-the-badge&logo=googleanalytics&logoColor=1a1a1a" alt="Computational Neuroscience" />
+  <img src="https://img.shields.io/badge/Brain--Computer%20Interface-f5b7d2?style=for-the-badge&logo=buffer&logoColor=1a1a1a" alt="Brain Computer Interface" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Biomedical%20Signal%20Processing-f3a8c8?style=for-the-badge&logo=scipy&logoColor=1a1a1a" alt="Biomedical Signal Processing" />
+  <img src="https://img.shields.io/badge/Affective%20Computing-f19abd?style=for-the-badge&logo=affinity&logoColor=1a1a1a" alt="Affective Computing" />
+  <img src="https://img.shields.io/badge/MRI%20Data%20Analysis-ee8bb3?style=for-the-badge&logo=opencv&logoColor=1a1a1a" alt="MRI Data Analysis" />
 </p>
