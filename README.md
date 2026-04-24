@@ -24,35 +24,35 @@
 
 ## <img src="./assets/education.png" width="26" alt="About me icon" /> About Me
 
-- I’m most interested in **EEG signal processing**, **computational neuroscience**, and the way engineering can help us understand brain activity more clearly
-- My work often sits between **biomedical data analysis**, **brain-computer interfaces**, **physiological modeling**, and **medical imaging**
-- I like projects that feel both analytical and interpretable, especially when they connect signals, systems, and real biological questions
+- I’m especially interested in **EEG signal processing**, **computational neuroscience**, and how engineering methods can make brain activity more interpretable
+- My work sits across **biomedical data analysis**, **brain-computer interfaces**, **physiological modeling**, and **medical imaging**
+- I’m drawn to projects that connect signals, systems, and biological questions in a way that is both technical and readable
 
 ## Current Focus
 
 - EEG preprocessing and time-frequency analysis
 - Brain-computer interface workflows and neural decoding
 - Computational physiology and reduced-order modeling
-- Machine learning methods for biomedical signals and imaging
+- Machine learning methods for biomedical signals and medical imaging
 
 ---
 
 ## Selected Projects
 
 - [EEG-Emotion-Recognition](https://github.com/Parichehr13/EEG-Emotion-Recognition)  
-  EEG-based emotion recognition with deep learning and optimization across the DEAP and SEED datasets.
+  Research-oriented EEG emotion recognition with convolutional models, DEAP and SEED benchmarks, and Optuna-based hyperparameter search.
 
 - [EEG-Processing](https://github.com/Parichehr13/EEG-Processing)  
-  A practical EEG pipeline covering preprocessing, ICA artifact removal, ERP analysis, and time-frequency methods.
+  An EEG analysis pipeline centered on preprocessing, ICA artifact removal, ERP structure, and time-frequency characterization.
+
+- [Neural-Systems](https://github.com/Parichehr13/Neural-Systems)  
+  Multi-scale neural dynamics in Python, from single-neuron models to neural mass systems and associative networks.
 
 - [physiological-systems-modeling](https://github.com/Parichehr13/physiological-systems-modeling)  
-  A curated MATLAB portfolio of circulation, respiratory, gas-exchange, and feedback-control models in physiology.
-
-- [Biomedical-Signal-Processing](https://github.com/Parichehr13/Biomedical-Signal-Processing)  
-  Biomedical signal processing workflows in Python, from DSP foundations and ECG filtering to validation-focused ML.
+  A curated MATLAB portfolio of circulation, respiratory, gas-exchange, and feedback-control models in computational physiology.
 
 - [Medical-Imaging-Analysis](https://github.com/Parichehr13/Medical-Imaging-Analysis)  
-  Medical imaging projects in registration, segmentation, and 3D reconstruction from MRI and DICOM data.
+  Medical imaging work in multimodal registration, level-set segmentation, and 3D reconstruction from MRI and DICOM data.
 
 ---
 
@@ -71,6 +71,7 @@
 ![SciPy](https://img.shields.io/badge/SciPy-d5ecdc?style=for-the-badge&logo=scipy&logoColor=111111)
 ![Pandas](https://img.shields.io/badge/Pandas-efb6d2?style=for-the-badge&logo=pandas&logoColor=111111)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-c5e4cf?style=for-the-badge&logoColor=111111)
+![Optuna](https://img.shields.io/badge/Optuna-f0bfd8?style=for-the-badge&logoColor=111111)
 
 **ML / Deep Learning**
 
@@ -101,8 +102,4 @@
     <img src="./assets/linkedin-icon-1.svg" width="22" alt="LinkedIn icon" />
   </a>
   <strong> LinkedIn:</strong> <a href="https://www.linkedin.com/in/parichehr-moradi-82b0121a9">parichehr-moradi-82b0121a9</a>
-</p>
-
-<p align="center">
-  Curious about the brain, grounded in engineering, and drawn to signals, systems, and models that reveal how biology works.
 </p>
