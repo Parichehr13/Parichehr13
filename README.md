@@ -45,7 +45,7 @@
 - [EEG-Processing](https://github.com/Parichehr13/EEG-Processing)  
   An EEG analysis pipeline centered on preprocessing, ICA artifact removal, ERP structure, and time-frequency characterization.
 
-- [Neural-Systems](https://github.com/Parichehr13/Neural-Systems)  
+- [multi-scale-neural-dynamics](https://github.com/Parichehr13/Neural-Systems)  
   Multi-scale neural dynamics in Python, from single-neuron models to neural mass systems and associative networks.
 
 - [physiological-systems-modeling](https://github.com/Parichehr13/physiological-systems-modeling)  
