@@ -37,25 +37,6 @@
 
 ---
 
-## Selected Projects
-
-- [EEG-Emotion-Recognition](https://github.com/Parichehr13/EEG-Emotion-Recognition)  
-  Research-oriented EEG emotion recognition with convolutional models, DEAP and SEED benchmarks, and Optuna-based hyperparameter search.
-
-- [EEG-Processing](https://github.com/Parichehr13/EEG-Processing)  
-  An EEG analysis pipeline centered on preprocessing, ICA artifact removal, ERP structure, and time-frequency characterization.
-
-- [multi-scale-neural-dynamics](https://github.com/Parichehr13/Neural-Systems)  
-  Multi-scale neural dynamics in Python, from single-neuron models to neural mass systems and associative networks.
-
-- [physiological-systems-modeling](https://github.com/Parichehr13/physiological-systems-modeling)  
-  A curated MATLAB portfolio of circulation, respiratory, gas-exchange, and feedback-control models in computational physiology.
-
-- [Medical-Imaging-Analysis](https://github.com/Parichehr13/Medical-Imaging-Analysis)  
-  Medical imaging work in multimodal registration, level-set segmentation, and 3D reconstruction from MRI and DICOM data.
-
----
-
 ## <img src="./assets/intelligence.png" width="26" alt="Technical skills icon" /> Toolkit & Research Areas
 
 **Languages & Core Tools**
